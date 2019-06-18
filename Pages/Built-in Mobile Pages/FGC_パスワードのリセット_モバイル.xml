@@ -1,0 +1,553 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sheet name="FGC_パスワードのリセット_モバイル">
+  <DefaultColumnWidth value="20" />
+  <PrintInfo>
+    <Margin />
+    <PaperSize />
+  </PrintInfo>
+  <NamedStyles>
+    <Item index="0" type="StyleInfo">
+      <Name value="BORD=BTMT#FFA9BCD1" />
+      <BottomBorder>
+        <Type value="Thin" />
+        <Color value="#FFA9BCD1" />
+      </BottomBorder>
+    </Item>
+    <Item index="1" type="StyleInfo">
+      <Name value="BORD=TP" />
+      <TopBorder value="(null)" />
+    </Item>
+    <Item index="2" type="StyleInfo">
+      <Name value="BORD=BTMT#FFA9BCD1LF" />
+      <LeftBorder value="(null)" />
+      <BottomBorder>
+        <Type value="Thin" />
+        <Color value="#FFA9BCD1" />
+      </BottomBorder>
+    </Item>
+    <Item index="3" type="StyleInfo">
+      <Name value="BORD=BTMT#FFA9BCD1RT" />
+      <RightBorder value="(null)" />
+      <BottomBorder>
+        <Type value="Thin" />
+        <Color value="#FFA9BCD1" />
+      </BottomBorder>
+    </Item>
+    <Item index="4" type="StyleInfo">
+      <Name value="BORD=BTM" />
+      <BottomBorder value="(null)" />
+    </Item>
+    <Item index="5" type="StyleInfo">
+      <Name value="BORD=RT" />
+      <RightBorder value="(null)" />
+    </Item>
+    <Item index="6" type="StyleInfo">
+      <Name value="BORD=LF" />
+      <LeftBorder value="(null)" />
+    </Item>
+    <Item index="7" type="StyleInfo">
+      <Name value="FSIZE=12.00FGUDCLOR=#FF7F7F7FHVLIGN=CenterINDENT=0BORD=BTMLFRTTPFMT=General" />
+      <FontSize value="12" />
+      <HorizontalAlignment value="Center" />
+      <TextIndent value="0" />
+      <LeftBorder value="(null)" />
+      <TopBorder value="(null)" />
+      <RightBorder value="(null)" />
+      <BottomBorder value="(null)" />
+      <Foreground value="#FF7F7F7F" />
+      <Formatter value="[Auto]General" />
+    </Item>
+    <Item index="8" type="StyleInfo">
+      <Name value="FSIZE=14.67FGUDCLOR=#FF7F7F7FBORD=BTMFMT=General" />
+      <FontSize value="14.6666669845581" />
+      <BottomBorder value="(null)" />
+      <Foreground value="#FF7F7F7F" />
+      <Formatter value="[Auto]General" />
+    </Item>
+    <Item index="9" type="StyleInfo">
+      <Name value="BORD=RTTP" />
+      <TopBorder value="(null)" />
+      <RightBorder value="(null)" />
+    </Item>
+    <Item index="10" type="StyleInfo">
+      <Name value="BORD=BTMLF" />
+      <LeftBorder value="(null)" />
+      <BottomBorder value="(null)" />
+    </Item>
+    <Item index="11" type="StyleInfo">
+      <Name value="BORD=BTMRT" />
+      <RightBorder value="(null)" />
+      <BottomBorder value="(null)" />
+    </Item>
+    <Item index="12" type="StyleInfo">
+      <Name value="BKGUDCOLR=#FFFFFFFFBORD=TP" />
+      <TopBorder value="(null)" />
+      <Background value="#FFFFFFFF" />
+    </Item>
+    <Item index="13" type="StyleInfo">
+      <Name value="BKGUDCOLR=#FFFFFFFFBORD=RTTP" />
+      <TopBorder value="(null)" />
+      <RightBorder value="(null)" />
+      <Background value="#FFFFFFFF" />
+    </Item>
+    <Item index="14" type="StyleInfo">
+      <Name value="BKGUDCOLR=#FFFFFFFFBORD=BTMLF" />
+      <LeftBorder value="(null)" />
+      <BottomBorder value="(null)" />
+      <Background value="#FFFFFFFF" />
+    </Item>
+    <Item index="15" type="StyleInfo">
+      <Name value="BKGUDCOLR=#FFFFFFFFBORD=BTM" />
+      <BottomBorder value="(null)" />
+      <Background value="#FFFFFFFF" />
+    </Item>
+    <Item index="16" type="StyleInfo">
+      <Name value="BKGUDCOLR=#FFFFFFFFBORD=BTMRT" />
+      <RightBorder value="(null)" />
+      <BottomBorder value="(null)" />
+      <Background value="#FFFFFFFF" />
+    </Item>
+    <Item index="17" type="StyleInfo">
+      <Name value="BORD=BTMTP" />
+      <TopBorder value="(null)" />
+      <BottomBorder value="(null)" />
+    </Item>
+    <Item index="18" type="StyleInfo">
+      <Name value="FSIZE=16.00FWight=BoldBKGUDCOLR=FGUDCLOR=BORD=BTMLFRTTPFMT=General" />
+      <FontSize value="16" />
+      <FontWeight value="Bold" />
+      <LeftBorder value="(null)" />
+      <TopBorder value="(null)" />
+      <RightBorder value="(null)" />
+      <BottomBorder value="(null)" />
+      <Background />
+      <Foreground />
+      <Formatter value="[Auto]General" />
+    </Item>
+    <Item index="19" type="StyleInfo">
+      <Name value="FSIZE=21.33FGUDCLOR=Accent 1 -50VALIGN=BottomHVLIGN=CenterINDENT=0BORD=BTMLFRTTPFMT=General" />
+      <FontSize value="21.3333339691162" />
+      <HorizontalAlignment value="Center" />
+      <VerticalAlignment value="Bottom" />
+      <TextIndent value="0" />
+      <LeftBorder value="(null)" />
+      <TopBorder value="(null)" />
+      <RightBorder value="(null)" />
+      <BottomBorder value="(null)" />
+      <Foreground value="Accent 1 -50" />
+      <Formatter value="[Auto]General" />
+    </Item>
+    <Item index="20" type="StyleInfo">
+      <Name value="FGUDCLOR=Accent 1 -50" />
+      <Foreground value="Accent 1 -50" />
+    </Item>
+    <Item index="21" type="StyleInfo">
+      <Name value="FSIZE=16.00BKGUDCOLR=FGUDCLOR=BORD=BTMLFRTTPFMT=@" />
+      <FontSize value="16" />
+      <LeftBorder value="(null)" />
+      <TopBorder value="(null)" />
+      <RightBorder value="(null)" />
+      <BottomBorder value="(null)" />
+      <Background />
+      <Foreground />
+      <Formatter value="@" />
+    </Item>
+    <Item index="22" type="StyleInfo">
+      <Name value="BORD=TPFMT=@" />
+      <TopBorder value="(null)" />
+      <Formatter value="@" />
+    </Item>
+    <Item index="23" type="StyleInfo">
+      <Name value="BORD=RTTPFMT=@" />
+      <TopBorder value="(null)" />
+      <RightBorder value="(null)" />
+      <Formatter value="@" />
+    </Item>
+    <Item index="24" type="StyleInfo">
+      <Name value="BORD=BTMLFFMT=@" />
+      <LeftBorder value="(null)" />
+      <BottomBorder value="(null)" />
+      <Formatter value="@" />
+    </Item>
+    <Item index="25" type="StyleInfo">
+      <Name value="BORD=BTMFMT=@" />
+      <BottomBorder value="(null)" />
+      <Formatter value="@" />
+    </Item>
+    <Item index="26" type="StyleInfo">
+      <Name value="BORD=BTMRTFMT=@" />
+      <RightBorder value="(null)" />
+      <BottomBorder value="(null)" />
+      <Formatter value="@" />
+    </Item>
+  </NamedStyles>
+  <DefaultStyle>
+    <FontFamily value="Body" />
+    <FontSize value="13.3333330154419" />
+    <Foreground value="#FF000000" />
+  </DefaultStyle>
+  <DefaultColumnHeaderStyle>
+    <FontFamily value="SimSun" />
+    <HorizontalAlignment value="Center" />
+    <VerticalAlignment value="Center" />
+  </DefaultColumnHeaderStyle>
+  <DefaultRowHeaderStyle>
+    <FontFamily value="SimSun" />
+    <HorizontalAlignment value="Center" />
+    <VerticalAlignment value="Center" />
+  </DefaultRowHeaderStyle>
+  <SelectionBorderColor />
+  <TouchSelectionGripperBackgroundColor value="#FFFFFFFF" />
+  <CellBlock rc="25" cc="18">
+    <Data>
+      <C pos="2,3" type="0" value="パスワードのリセット" />
+      <C pos="6,3" type="0" value="新しいパスワード" />
+      <C pos="10,3" type="0" value="新しいパスワードの確認" />
+      <C pos="15,3" type="0" value="リセット" />
+      <C pos="18,3" type="0" value="キャンセル" />
+      <C pos="23,1" type="0" value="簡単に推測できるパスワードは避けてください" />
+      <Types>
+        <Type id="0" name="System.String" assembly="mscorlib" />
+      </Types>
+    </Data>
+    <Style>
+      <C pos="1,6" type="0" value="BORD=BTM" />
+      <C pos="1,7" type="0" value="BORD=BTM" />
+      <C pos="1,8" type="0" value="BORD=BTM" />
+      <C pos="1,9" type="0" value="BORD=BTM" />
+      <C pos="1,10" type="0" value="BORD=BTM" />
+      <C pos="1,11" type="0" value="BORD=BTM" />
+      <C pos="2,2" type="0" value="BORD=RT" />
+      <C pos="2,3" type="0" value="FSIZE=21.33FGUDCLOR=Accent 1 -50VALIGN=BottomHVLIGN=CenterINDENT=0BORD=BTMLFRTTPFMT=General" />
+      <C pos="2,4" type="0" value="FGUDCLOR=Accent 1 -50" />
+      <C pos="2,5" type="0" value="FGUDCLOR=Accent 1 -50" />
+      <C pos="2,6" type="0" value="FGUDCLOR=Accent 1 -50" />
+      <C pos="2,7" type="0" value="FGUDCLOR=Accent 1 -50" />
+      <C pos="2,8" type="0" value="FGUDCLOR=Accent 1 -50" />
+      <C pos="2,9" type="0" value="FGUDCLOR=Accent 1 -50" />
+      <C pos="2,10" type="0" value="FGUDCLOR=Accent 1 -50" />
+      <C pos="2,11" type="0" value="FGUDCLOR=Accent 1 -50" />
+      <C pos="2,12" type="0" value="FGUDCLOR=Accent 1 -50" />
+      <C pos="2,13" type="0" value="FGUDCLOR=Accent 1 -50" />
+      <C pos="2,14" type="0" value="BORD=LF" />
+      <C pos="3,1" type="0" value="BORD=BTMT#FFA9BCD1" />
+      <C pos="3,2" type="0" value="BORD=BTMT#FFA9BCD1" />
+      <C pos="3,3" type="0" value="BORD=BTMT#FFA9BCD1" />
+      <C pos="3,4" type="0" value="BORD=BTMT#FFA9BCD1" />
+      <C pos="3,5" type="0" value="BORD=BTMT#FFA9BCD1RT" />
+      <C pos="3,6" type="0" value="FGUDCLOR=Accent 1 -50" />
+      <C pos="3,7" type="0" value="FGUDCLOR=Accent 1 -50" />
+      <C pos="3,8" type="0" value="FGUDCLOR=Accent 1 -50" />
+      <C pos="3,9" type="0" value="FGUDCLOR=Accent 1 -50" />
+      <C pos="3,10" type="0" value="FGUDCLOR=Accent 1 -50" />
+      <C pos="3,11" type="0" value="FGUDCLOR=Accent 1 -50" />
+      <C pos="3,12" type="0" value="BORD=BTMT#FFA9BCD1LF" />
+      <C pos="3,13" type="0" value="BORD=BTMT#FFA9BCD1" />
+      <C pos="3,14" type="0" value="BORD=BTMT#FFA9BCD1" />
+      <C pos="3,15" type="0" value="BORD=BTMT#FFA9BCD1" />
+      <C pos="3,16" type="0" value="BORD=BTMT#FFA9BCD1" />
+      <C pos="4,1" type="0" value="BORD=TP" />
+      <C pos="4,2" type="0" value="BORD=TP" />
+      <C pos="4,3" type="0" value="BORD=TP" />
+      <C pos="4,4" type="0" value="BORD=TP" />
+      <C pos="4,5" type="0" value="BORD=TP" />
+      <C pos="4,6" type="0" value="BORD=TP" />
+      <C pos="4,7" type="0" value="BORD=TP" />
+      <C pos="4,8" type="0" value="BORD=TP" />
+      <C pos="4,9" type="0" value="BORD=TP" />
+      <C pos="4,10" type="0" value="BORD=TP" />
+      <C pos="4,11" type="0" value="BORD=TP" />
+      <C pos="4,12" type="0" value="BORD=TP" />
+      <C pos="4,13" type="0" value="BORD=TP" />
+      <C pos="4,14" type="0" value="BORD=TP" />
+      <C pos="4,15" type="0" value="BORD=TP" />
+      <C pos="4,16" type="0" value="BORD=TP" />
+      <C pos="6,3" type="0" value="FSIZE=14.67FGUDCLOR=#FF7F7F7FBORD=BTMFMT=General" />
+      <C pos="6,4" type="0" value="BORD=BTM" />
+      <C pos="6,5" type="0" value="BORD=BTM" />
+      <C pos="6,6" type="0" value="BORD=BTM" />
+      <C pos="6,7" type="0" value="BORD=BTM" />
+      <C pos="6,8" type="0" value="BORD=BTM" />
+      <C pos="6,9" type="0" value="BORD=BTM" />
+      <C pos="6,10" type="0" value="BORD=BTM" />
+      <C pos="6,11" type="0" value="BORD=BTM" />
+      <C pos="6,12" type="0" value="BORD=BTM" />
+      <C pos="6,13" type="0" value="BORD=BTM" />
+      <C pos="6,14" type="0" value="BORD=BTM" />
+      <C pos="7,2" type="0" value="BORD=RT" />
+      <C pos="7,3" type="0" value="FSIZE=16.00BKGUDCOLR=FGUDCLOR=BORD=BTMLFRTTPFMT=@" />
+      <C pos="7,4" type="0" value="BORD=TPFMT=@" />
+      <C pos="7,5" type="0" value="BORD=TPFMT=@" />
+      <C pos="7,6" type="0" value="BORD=TPFMT=@" />
+      <C pos="7,7" type="0" value="BORD=TPFMT=@" />
+      <C pos="7,8" type="0" value="BORD=TPFMT=@" />
+      <C pos="7,9" type="0" value="BORD=TPFMT=@" />
+      <C pos="7,10" type="0" value="BORD=TPFMT=@" />
+      <C pos="7,11" type="0" value="BORD=TPFMT=@" />
+      <C pos="7,12" type="0" value="BORD=TPFMT=@" />
+      <C pos="7,13" type="0" value="BORD=TPFMT=@" />
+      <C pos="7,14" type="0" value="BORD=RTTPFMT=@" />
+      <C pos="7,15" type="0" value="BORD=LF" />
+      <C pos="8,2" type="0" value="BORD=RT" />
+      <C pos="8,3" type="0" value="BORD=BTMLFFMT=@" />
+      <C pos="8,4" type="0" value="BORD=BTMFMT=@" />
+      <C pos="8,5" type="0" value="BORD=BTMFMT=@" />
+      <C pos="8,6" type="0" value="BORD=BTMFMT=@" />
+      <C pos="8,7" type="0" value="BORD=BTMFMT=@" />
+      <C pos="8,8" type="0" value="BORD=BTMFMT=@" />
+      <C pos="8,9" type="0" value="BORD=BTMFMT=@" />
+      <C pos="8,10" type="0" value="BORD=BTMFMT=@" />
+      <C pos="8,11" type="0" value="BORD=BTMFMT=@" />
+      <C pos="8,12" type="0" value="BORD=BTMFMT=@" />
+      <C pos="8,13" type="0" value="BORD=BTMFMT=@" />
+      <C pos="8,14" type="0" value="BORD=BTMRTFMT=@" />
+      <C pos="8,15" type="0" value="BORD=LF" />
+      <C pos="9,3" type="0" value="BORD=TP" />
+      <C pos="9,4" type="0" value="BORD=TP" />
+      <C pos="9,5" type="0" value="BORD=TP" />
+      <C pos="9,6" type="0" value="BORD=TP" />
+      <C pos="9,7" type="0" value="BORD=TP" />
+      <C pos="9,8" type="0" value="BORD=TP" />
+      <C pos="9,9" type="0" value="BORD=TP" />
+      <C pos="9,10" type="0" value="BORD=TP" />
+      <C pos="9,11" type="0" value="BORD=TP" />
+      <C pos="9,12" type="0" value="BORD=TP" />
+      <C pos="9,13" type="0" value="BORD=TP" />
+      <C pos="9,14" type="0" value="BORD=TP" />
+      <C pos="10,3" type="0" value="FSIZE=14.67FGUDCLOR=#FF7F7F7FBORD=BTMFMT=General" />
+      <C pos="10,4" type="0" value="BORD=BTM" />
+      <C pos="10,5" type="0" value="BORD=BTM" />
+      <C pos="10,6" type="0" value="BORD=BTM" />
+      <C pos="10,7" type="0" value="BORD=BTM" />
+      <C pos="10,8" type="0" value="BORD=BTM" />
+      <C pos="10,9" type="0" value="BORD=BTM" />
+      <C pos="10,10" type="0" value="BORD=BTM" />
+      <C pos="10,11" type="0" value="BORD=BTM" />
+      <C pos="10,12" type="0" value="BORD=BTM" />
+      <C pos="10,13" type="0" value="BORD=BTM" />
+      <C pos="10,14" type="0" value="BORD=BTM" />
+      <C pos="11,2" type="0" value="BORD=RT" />
+      <C pos="11,3" type="0" value="FSIZE=16.00BKGUDCOLR=FGUDCLOR=BORD=BTMLFRTTPFMT=@" />
+      <C pos="11,4" type="0" value="BORD=TPFMT=@" />
+      <C pos="11,5" type="0" value="BORD=TPFMT=@" />
+      <C pos="11,6" type="0" value="BORD=TPFMT=@" />
+      <C pos="11,7" type="0" value="BORD=TPFMT=@" />
+      <C pos="11,8" type="0" value="BORD=TPFMT=@" />
+      <C pos="11,9" type="0" value="BORD=TPFMT=@" />
+      <C pos="11,10" type="0" value="BORD=TPFMT=@" />
+      <C pos="11,11" type="0" value="BORD=TPFMT=@" />
+      <C pos="11,12" type="0" value="BORD=TPFMT=@" />
+      <C pos="11,13" type="0" value="BORD=TPFMT=@" />
+      <C pos="11,14" type="0" value="BORD=RTTPFMT=@" />
+      <C pos="11,15" type="0" value="BORD=LF" />
+      <C pos="12,2" type="0" value="BORD=RT" />
+      <C pos="12,3" type="0" value="BORD=BTMLFFMT=@" />
+      <C pos="12,4" type="0" value="BORD=BTMFMT=@" />
+      <C pos="12,5" type="0" value="BORD=BTMFMT=@" />
+      <C pos="12,6" type="0" value="BORD=BTMFMT=@" />
+      <C pos="12,7" type="0" value="BORD=BTMFMT=@" />
+      <C pos="12,8" type="0" value="BORD=BTMFMT=@" />
+      <C pos="12,9" type="0" value="BORD=BTMFMT=@" />
+      <C pos="12,10" type="0" value="BORD=BTMFMT=@" />
+      <C pos="12,11" type="0" value="BORD=BTMFMT=@" />
+      <C pos="12,12" type="0" value="BORD=BTMFMT=@" />
+      <C pos="12,13" type="0" value="BORD=BTMFMT=@" />
+      <C pos="12,14" type="0" value="BORD=BTMRTFMT=@" />
+      <C pos="12,15" type="0" value="BORD=LF" />
+      <C pos="13,3" type="0" value="BORD=TP" />
+      <C pos="13,4" type="0" value="BORD=TP" />
+      <C pos="13,5" type="0" value="BORD=TP" />
+      <C pos="13,6" type="0" value="BORD=TP" />
+      <C pos="13,7" type="0" value="BORD=TP" />
+      <C pos="13,8" type="0" value="BORD=TP" />
+      <C pos="13,9" type="0" value="BORD=TP" />
+      <C pos="13,10" type="0" value="BORD=TP" />
+      <C pos="13,11" type="0" value="BORD=TP" />
+      <C pos="13,12" type="0" value="BORD=TP" />
+      <C pos="13,13" type="0" value="BORD=TP" />
+      <C pos="13,14" type="0" value="BORD=TP" />
+      <C pos="14,3" type="0" value="BORD=BTM" />
+      <C pos="14,4" type="0" value="BORD=BTM" />
+      <C pos="14,5" type="0" value="BORD=BTM" />
+      <C pos="14,6" type="0" value="BORD=BTM" />
+      <C pos="14,7" type="0" value="BORD=BTM" />
+      <C pos="14,8" type="0" value="BORD=BTM" />
+      <C pos="14,9" type="0" value="BORD=BTM" />
+      <C pos="14,10" type="0" value="BORD=BTM" />
+      <C pos="14,11" type="0" value="BORD=BTM" />
+      <C pos="14,12" type="0" value="BORD=BTM" />
+      <C pos="14,13" type="0" value="BORD=BTM" />
+      <C pos="14,14" type="0" value="BORD=BTM" />
+      <C pos="15,2" type="0" value="BORD=RT" />
+      <C pos="15,3" type="0" value="FSIZE=16.00FWight=BoldBKGUDCOLR=FGUDCLOR=BORD=BTMLFRTTPFMT=General" />
+      <C pos="15,4" type="0" value="BORD=TP" />
+      <C pos="15,5" type="0" value="BORD=TP" />
+      <C pos="15,6" type="0" value="BORD=TP" />
+      <C pos="15,7" type="0" value="BORD=TP" />
+      <C pos="15,8" type="0" value="BORD=TP" />
+      <C pos="15,9" type="0" value="BORD=TP" />
+      <C pos="15,10" type="0" value="BORD=TP" />
+      <C pos="15,11" type="0" value="BORD=TP" />
+      <C pos="15,12" type="0" value="BORD=TP" />
+      <C pos="15,13" type="0" value="BORD=TP" />
+      <C pos="15,14" type="0" value="BORD=RTTP" />
+      <C pos="15,15" type="0" value="BORD=LF" />
+      <C pos="16,2" type="0" value="BORD=RT" />
+      <C pos="16,3" type="0" value="BORD=BTMLF" />
+      <C pos="16,4" type="0" value="BORD=BTM" />
+      <C pos="16,5" type="0" value="BORD=BTM" />
+      <C pos="16,6" type="0" value="BORD=BTM" />
+      <C pos="16,7" type="0" value="BORD=BTM" />
+      <C pos="16,8" type="0" value="BORD=BTM" />
+      <C pos="16,9" type="0" value="BORD=BTM" />
+      <C pos="16,10" type="0" value="BORD=BTM" />
+      <C pos="16,11" type="0" value="BORD=BTM" />
+      <C pos="16,12" type="0" value="BORD=BTM" />
+      <C pos="16,13" type="0" value="BORD=BTM" />
+      <C pos="16,14" type="0" value="BORD=BTMRT" />
+      <C pos="16,15" type="0" value="BORD=LF" />
+      <C pos="17,3" type="0" value="BORD=BTMTP" />
+      <C pos="17,4" type="0" value="BORD=BTMTP" />
+      <C pos="17,5" type="0" value="BORD=BTMTP" />
+      <C pos="17,6" type="0" value="BORD=BTMTP" />
+      <C pos="17,7" type="0" value="BORD=BTMTP" />
+      <C pos="17,8" type="0" value="BORD=BTMTP" />
+      <C pos="17,9" type="0" value="BORD=BTMTP" />
+      <C pos="17,10" type="0" value="BORD=BTMTP" />
+      <C pos="17,11" type="0" value="BORD=BTMTP" />
+      <C pos="17,12" type="0" value="BORD=BTMTP" />
+      <C pos="17,13" type="0" value="BORD=BTMTP" />
+      <C pos="17,14" type="0" value="BORD=BTMTP" />
+      <C pos="18,2" type="0" value="BORD=RT" />
+      <C pos="18,3" type="0" value="FSIZE=16.00FWight=BoldBKGUDCOLR=FGUDCLOR=BORD=BTMLFRTTPFMT=General" />
+      <C pos="18,4" type="0" value="BKGUDCOLR=#FFFFFFFFBORD=TP" />
+      <C pos="18,5" type="0" value="BKGUDCOLR=#FFFFFFFFBORD=TP" />
+      <C pos="18,6" type="0" value="BKGUDCOLR=#FFFFFFFFBORD=TP" />
+      <C pos="18,7" type="0" value="BKGUDCOLR=#FFFFFFFFBORD=TP" />
+      <C pos="18,8" type="0" value="BKGUDCOLR=#FFFFFFFFBORD=TP" />
+      <C pos="18,9" type="0" value="BKGUDCOLR=#FFFFFFFFBORD=TP" />
+      <C pos="18,10" type="0" value="BKGUDCOLR=#FFFFFFFFBORD=TP" />
+      <C pos="18,11" type="0" value="BKGUDCOLR=#FFFFFFFFBORD=TP" />
+      <C pos="18,12" type="0" value="BKGUDCOLR=#FFFFFFFFBORD=TP" />
+      <C pos="18,13" type="0" value="BKGUDCOLR=#FFFFFFFFBORD=TP" />
+      <C pos="18,14" type="0" value="BKGUDCOLR=#FFFFFFFFBORD=RTTP" />
+      <C pos="18,15" type="0" value="BORD=LF" />
+      <C pos="19,2" type="0" value="BORD=RT" />
+      <C pos="19,3" type="0" value="BKGUDCOLR=#FFFFFFFFBORD=BTMLF" />
+      <C pos="19,4" type="0" value="BKGUDCOLR=#FFFFFFFFBORD=BTM" />
+      <C pos="19,5" type="0" value="BKGUDCOLR=#FFFFFFFFBORD=BTM" />
+      <C pos="19,6" type="0" value="BKGUDCOLR=#FFFFFFFFBORD=BTM" />
+      <C pos="19,7" type="0" value="BKGUDCOLR=#FFFFFFFFBORD=BTM" />
+      <C pos="19,8" type="0" value="BKGUDCOLR=#FFFFFFFFBORD=BTM" />
+      <C pos="19,9" type="0" value="BKGUDCOLR=#FFFFFFFFBORD=BTM" />
+      <C pos="19,10" type="0" value="BKGUDCOLR=#FFFFFFFFBORD=BTM" />
+      <C pos="19,11" type="0" value="BKGUDCOLR=#FFFFFFFFBORD=BTM" />
+      <C pos="19,12" type="0" value="BKGUDCOLR=#FFFFFFFFBORD=BTM" />
+      <C pos="19,13" type="0" value="BKGUDCOLR=#FFFFFFFFBORD=BTM" />
+      <C pos="19,14" type="0" value="BKGUDCOLR=#FFFFFFFFBORD=BTMRT" />
+      <C pos="19,15" type="0" value="BORD=LF" />
+      <C pos="20,3" type="0" value="BORD=TP" />
+      <C pos="20,4" type="0" value="BORD=TP" />
+      <C pos="20,5" type="0" value="BORD=TP" />
+      <C pos="20,6" type="0" value="BORD=TP" />
+      <C pos="20,7" type="0" value="BORD=TP" />
+      <C pos="20,8" type="0" value="BORD=TP" />
+      <C pos="20,9" type="0" value="BORD=TP" />
+      <C pos="20,10" type="0" value="BORD=TP" />
+      <C pos="20,11" type="0" value="BORD=TP" />
+      <C pos="20,12" type="0" value="BORD=TP" />
+      <C pos="20,13" type="0" value="BORD=TP" />
+      <C pos="20,14" type="0" value="BORD=TP" />
+      <C pos="23,1" type="0" value="FSIZE=12.00FGUDCLOR=#FF7F7F7FHVLIGN=CenterINDENT=0BORD=BTMLFRTTPFMT=General" />
+      <Types>
+        <Type id="0" name="System.String" assembly="mscorlib" />
+      </Types>
+    </Style>
+    <Tag>
+      <C pos="7,3" type="0">
+        <CellType class="Forguncy.TextCellType" assembly="Forguncy">
+          <ForguncyAttribute>ResetPassword_NewPassword</ForguncyAttribute>
+          <ShowPassword>True</ShowPassword>
+          <TemplateKey>_RS_LightLine_Translucent_SmallRoundCorner_Normal1</TemplateKey>
+          <Validators>
+            <Item class="Forguncy.CellTypes.Models.UniqueValidadator" assembly="Forguncy" />
+          </Validators>
+        </CellType>
+        <IsCellIgnoreHideInListview>False</IsCellIgnoreHideInListview>
+      </C>
+      <C pos="11,3" type="0">
+        <CellType class="Forguncy.TextCellType" assembly="Forguncy">
+          <ForguncyAttribute>ResetPassword_ConfirmPassword</ForguncyAttribute>
+          <ShowPassword>True</ShowPassword>
+          <TemplateKey>_RS_LightLine_Translucent_SmallRoundCorner_Normal1</TemplateKey>
+          <Validators>
+            <Item class="Forguncy.CellTypes.Models.UniqueValidadator" assembly="Forguncy" />
+          </Validators>
+        </CellType>
+        <IsCellIgnoreHideInListview>False</IsCellIgnoreHideInListview>
+      </C>
+      <C pos="15,3" type="0">
+        <CellType class="Forguncy.ButtonCellType" assembly="Forguncy">
+          <AutoExecute>True</AutoExecute>
+          <ForguncyAttribute>ResetPassword_Button</ForguncyAttribute>
+          <TemplateKey>_RS_Normal_Style2</TemplateKey>
+          <Text>リセット</Text>
+        </CellType>
+        <IsCellIgnoreHideInListview>False</IsCellIgnoreHideInListview>
+      </C>
+      <C pos="18,3" type="0">
+        <CellType class="Forguncy.ButtonCellType" assembly="Forguncy">
+          <CommandList>
+            <Item class="Forguncy.Model.NavigateCommand" assembly="Forguncy">
+              <NavigateType>back</NavigateType>
+            </Item>
+          </CommandList>
+          <TemplateKey>_RS_Outline_Style2</TemplateKey>
+          <Text>キャンセル</Text>
+        </CellType>
+        <IsCellIgnoreHideInListview>False</IsCellIgnoreHideInListview>
+      </C>
+      <Types>
+        <Type id="0" name="Forguncy.AttachedInfo" assembly="Forguncy" />
+      </Types>
+    </Tag>
+  </CellBlock>
+  <RowHeaderBlock rc="25" cc="1" />
+  <ColumnHeaderBlock rc="1" cc="18" />
+  <ViewportRowsAxis length="25" />
+  <ViewportColumnsAxis length="18" />
+  <RowHeaderColumnsAxis length="1">
+    <Item index="0">
+      <CanUserResize value="False" />
+    </Item>
+  </RowHeaderColumnsAxis>
+  <ColumnHeaderRowsAxis length="1">
+    <Item index="0">
+      <CanUserResize value="False" />
+    </Item>
+  </ColumnHeaderRowsAxis>
+  <ViewportRowsAxisStyle length="25" />
+  <ViewportColumnsAxisStyle length="18" />
+  <RowHeaderRowsAxisStyle length="25" />
+  <RowHeaderColumnsAxisStyle length="1" />
+  <ColumnHeaderRowsAxisStyle length="1" />
+  <ColumnHeaderColumnsAxisStyle length="18" />
+  <CellsSpanModel>
+    <Items>
+      <Item r="2" c="3" rc="2" cc="12" />
+      <Item r="7" c="3" rc="2" cc="12" />
+      <Item r="11" c="3" rc="2" cc="12" />
+      <Item r="15" c="3" rc="2" cc="12" />
+      <Item r="18" c="3" rc="2" cc="12" />
+      <Item r="23" c="1" rc="1" cc="16" />
+    </Items>
+  </CellsSpanModel>
+  <Tag type="Forguncy.Model.Pages.SheetAttachData" assembly="Forguncy, Version=5.0.100.0, Culture=neutral, PublicKeyToken=967100671921c115">
+    <PageInfo class="Forguncy.Model.Pages.NormalPage" assembly="Forguncy">
+      <IsBuiltInPage>True</IsBuiltInPage>
+      <IsMobilePage>True</IsMobilePage>
+      <Name>FGC_パスワードのリセット_モバイル</Name>
+      <Title>パスワードのリセット</Title>
+    </PageInfo>
+  </Tag>
+</Sheet>

@@ -1,0 +1,80 @@
+[
+  {
+    "ModuleName": "Pages\\Built-in Mobile Pages",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "FGC_401ページ_モバイル"
+  },
+  {
+    "ModuleName": "FGC_ただいまメンテナンス中です_モバイル"
+  },
+  {
+    "ModuleName": "FGC_パスワードのリセット_モバイル"
+  },
+  {
+    "ModuleName": "FGC_パスワードのリセット用リンクの送信_モバイル"
+  },
+  {
+    "ModuleName": "FGC_パスワードの変更_モバイル"
+  },
+  {
+    "ModuleName": "FGC_パスワードを忘れた場合_モバイル"
+  },
+  {
+    "ModuleName": "FGC_プロファイルの編集_モバイル"
+  },
+  {
+    "ModuleName": "FGC_メールサブスクリプション_モバイル"
+  },
+  {
+    "ModuleName": "FGC_ログイン_モバイル"
+  },
+  {
+    "ModuleName": "Pages\\Built-in Pages",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "FGC_401ページ"
+  },
+  {
+    "ModuleName": "FGC_ただいまメンテナンス中です"
+  },
+  {
+    "ModuleName": "FGC_パスワードのリセット"
+  },
+  {
+    "ModuleName": "FGC_パスワードのリセット用リンクの送信"
+  },
+  {
+    "ModuleName": "FGC_パスワードの変更"
+  },
+  {
+    "ModuleName": "FGC_パスワードを忘れた場合"
+  },
+  {
+    "ModuleName": "FGC_プロファイルの編集"
+  },
+  {
+    "ModuleName": "FGC_メールサブスクリプション"
+  },
+  {
+    "ModuleName": "FGC_ログイン"
+  },
+  {
+    "ModuleName": "Page1",
+    "State": 1,
+    "LockedBy": "huyuan",
+    "LockDateTime": "2019-06-18T19:12:56.7590591+08:00"
+  },
+  {
+    "ModuleName": "Page2"
+  },
+  {
+    "ModuleName": "FGC_ユーザーマスターページ"
+  },
+  {
+    "ModuleName": "3662ae4e-b6b1-4ac1-b3e9-bf214d7e34ab",
+    "ModuleType": 2
+  }
+]

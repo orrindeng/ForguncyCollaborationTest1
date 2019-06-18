@@ -1,0 +1,292 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sheet name="FGC_401ページ_モバイル">
+  <DefaultColumnWidth value="20" />
+  <PrintInfo>
+    <Margin />
+    <PaperSize />
+  </PrintInfo>
+  <NamedStyles>
+    <Item index="0" type="StyleInfo">
+      <Name value="BORD=BTMT#FFA9BCD1" />
+      <BottomBorder>
+        <Type value="Thin" />
+        <Color value="#FFA9BCD1" />
+      </BottomBorder>
+    </Item>
+    <Item index="1" type="StyleInfo">
+      <Name value="BORD=TP" />
+      <TopBorder value="(null)" />
+    </Item>
+    <Item index="2" type="StyleInfo">
+      <Name value="BORD=BTMT#FFA9BCD1LF" />
+      <LeftBorder value="(null)" />
+      <BottomBorder>
+        <Type value="Thin" />
+        <Color value="#FFA9BCD1" />
+      </BottomBorder>
+    </Item>
+    <Item index="3" type="StyleInfo">
+      <Name value="BORD=BTMT#FFA9BCD1RT" />
+      <RightBorder value="(null)" />
+      <BottomBorder>
+        <Type value="Thin" />
+        <Color value="#FFA9BCD1" />
+      </BottomBorder>
+    </Item>
+    <Item index="4" type="StyleInfo">
+      <Name value="BORD=BTM" />
+      <BottomBorder value="(null)" />
+    </Item>
+    <Item index="5" type="StyleInfo">
+      <Name value="BORD=RT" />
+      <RightBorder value="(null)" />
+    </Item>
+    <Item index="6" type="StyleInfo">
+      <Name value="BORD=LF" />
+      <LeftBorder value="(null)" />
+    </Item>
+    <Item index="7" type="StyleInfo">
+      <Name value="FMT=General" />
+      <Formatter value="[Auto]General" />
+    </Item>
+    <Item index="8" type="StyleInfo">
+      <Name value="FSIZE=14.67FWight=BoldFGUDCLOR=#FF7F7F7FBORD=BTMLFRTTPFMT=General" />
+      <FontSize value="14.6666669845581" />
+      <FontWeight value="Bold" />
+      <LeftBorder value="(null)" />
+      <TopBorder value="(null)" />
+      <RightBorder value="(null)" />
+      <BottomBorder value="(null)" />
+      <Foreground value="#FF7F7F7F" />
+      <Formatter value="[Auto]General" />
+    </Item>
+    <Item index="9" type="StyleInfo">
+      <Name value="FGUDCLOR=#FF3F3F3FHVLIGN=CenterINDENT=0BORD=BTMLFRTTPFMT=General" />
+      <HorizontalAlignment value="Center" />
+      <TextIndent value="0" />
+      <LeftBorder value="(null)" />
+      <TopBorder value="(null)" />
+      <RightBorder value="(null)" />
+      <BottomBorder value="(null)" />
+      <Foreground value="#FF3F3F3F" />
+      <Formatter value="[Auto]General" />
+    </Item>
+    <Item index="10" type="StyleInfo">
+      <Name value="FGUDCLOR=#FF3F3F3FFMT=General" />
+      <Foreground value="#FF3F3F3F" />
+      <Formatter value="[Auto]General" />
+    </Item>
+    <Item index="11" type="StyleInfo">
+      <Name value="FSIZE=14.67FGUDCLOR=#FF3F3F3FHVLIGN=LeftFMT=General" />
+      <FontSize value="14.6666669845581" />
+      <HorizontalAlignment value="Left" />
+      <Foreground value="#FF3F3F3F" />
+      <Formatter value="[Auto]General" />
+    </Item>
+    <Item index="12" type="StyleInfo">
+      <Name value="FGUDCLOR=#FF3F3F3FVALIGN=TopWRAPTXT=TrueBORD=BTMLFRTTPFMT=General" />
+      <VerticalAlignment value="Top" />
+      <WordWrap value="True" />
+      <LeftBorder value="(null)" />
+      <TopBorder value="(null)" />
+      <RightBorder value="(null)" />
+      <BottomBorder value="(null)" />
+      <Foreground value="#FF3F3F3F" />
+      <Formatter value="[Auto]General" />
+    </Item>
+    <Item index="13" type="StyleInfo">
+      <Name value="FSIZE=14.67FGUDCLOR=#FF3F3F3FVALIGN=TopHVLIGN=LeftFMT=General" />
+      <FontSize value="14.6666669845581" />
+      <HorizontalAlignment value="Left" />
+      <VerticalAlignment value="Top" />
+      <Foreground value="#FF3F3F3F" />
+      <Formatter value="[Auto]General" />
+    </Item>
+    <Item index="14" type="StyleInfo">
+      <Name value="FSIZE=21.33FGUDCLOR=Accent 1 -50VALIGN=BottomHVLIGN=CenterINDENT=0BORD=BTMLFRTTPFMT=General" />
+      <FontSize value="21.3333339691162" />
+      <HorizontalAlignment value="Center" />
+      <VerticalAlignment value="Bottom" />
+      <TextIndent value="0" />
+      <LeftBorder value="(null)" />
+      <TopBorder value="(null)" />
+      <RightBorder value="(null)" />
+      <BottomBorder value="(null)" />
+      <Foreground value="Accent 1 -50" />
+      <Formatter value="[Auto]General" />
+    </Item>
+    <Item index="15" type="StyleInfo">
+      <Name value="FGUDCLOR=Accent 1 -50" />
+      <Foreground value="Accent 1 -50" />
+    </Item>
+    <Item index="16" type="StyleInfo">
+      <Name value="FUNDLIN=TrueFGUDCLOR=#FF0070C0BORD=BTMLFRTTPFMT=General" />
+      <LeftBorder value="(null)" />
+      <TopBorder value="(null)" />
+      <RightBorder value="(null)" />
+      <BottomBorder value="(null)" />
+      <Foreground value="#FF0070C0" />
+      <Formatter value="[Auto]General" />
+      <Underline value="True" />
+    </Item>
+    <Item index="17" type="StyleInfo">
+      <Name value="FGUDCLOR=#FF3F3F3FFMT=GeneralWRAPTEXT=TRUE" />
+      <WordWrap value="True" />
+      <Foreground value="#FF3F3F3F" />
+      <Formatter value="[Auto]General" />
+    </Item>
+  </NamedStyles>
+  <DefaultStyle>
+    <FontFamily value="Body" />
+    <FontSize value="13.3333330154419" />
+    <Foreground value="#FF000000" />
+  </DefaultStyle>
+  <DefaultColumnHeaderStyle>
+    <FontFamily value="SimSun" />
+    <HorizontalAlignment value="Center" />
+    <VerticalAlignment value="Center" />
+  </DefaultColumnHeaderStyle>
+  <DefaultRowHeaderStyle>
+    <FontFamily value="SimSun" />
+    <HorizontalAlignment value="Center" />
+    <VerticalAlignment value="Center" />
+  </DefaultRowHeaderStyle>
+  <SelectionBorderColor />
+  <TouchSelectionGripperBackgroundColor value="#FFFFFFFF" />
+  <CellBlock rc="25" cc="18">
+    <Data>
+      <C pos="2,4" type="0" value="アクセス許可の問題" />
+      <C pos="5,1" type="0" value="このページを表示するアクセス許可がありません。" />
+      <C pos="7,1" type="0" value="可能性のある原因:" />
+      <C pos="9,1" type="0" value="ログイン中のユーザーは、要求に必要なアクセス権を持っていません。" />
+      <C pos="12,1" type="0" value="解決方法：" />
+      <C pos="14,1" type="1" value="1" />
+      <C pos="14,2" type="0" value="一旦ログオフし、異なるアカウントでログインする" />
+      <C pos="16,1" type="1" value="2" />
+      <C pos="16,2" type="0" value="Webブラウザーの戻るボタンをクリックして前ページに戻り、異なるリンクを試す" />
+      <C pos="19,1" type="1" value="3" />
+      <C pos="19,2" type="0" value="管理者に問い合わせる" />
+      <Types>
+        <Type id="0" name="System.String" assembly="mscorlib" />
+        <Type id="1" name="System.Int32" assembly="mscorlib" />
+      </Types>
+    </Data>
+    <Style>
+      <C pos="1,5" type="0" value="BORD=BTM" />
+      <C pos="1,6" type="0" value="BORD=BTM" />
+      <C pos="1,7" type="0" value="BORD=BTM" />
+      <C pos="1,8" type="0" value="BORD=BTM" />
+      <C pos="1,9" type="0" value="BORD=BTM" />
+      <C pos="1,10" type="0" value="BORD=BTM" />
+      <C pos="1,11" type="0" value="BORD=BTM" />
+      <C pos="1,12" type="0" value="BORD=BTM" />
+      <C pos="2,3" type="0" value="BORD=RT" />
+      <C pos="2,4" type="0" value="FSIZE=21.33FGUDCLOR=Accent 1 -50VALIGN=BottomHVLIGN=CenterINDENT=0BORD=BTMLFRTTPFMT=General" />
+      <C pos="2,5" type="0" value="FGUDCLOR=Accent 1 -50" />
+      <C pos="2,6" type="0" value="FGUDCLOR=Accent 1 -50" />
+      <C pos="2,7" type="0" value="FGUDCLOR=Accent 1 -50" />
+      <C pos="2,8" type="0" value="FGUDCLOR=Accent 1 -50" />
+      <C pos="2,9" type="0" value="FGUDCLOR=Accent 1 -50" />
+      <C pos="2,10" type="0" value="FGUDCLOR=Accent 1 -50" />
+      <C pos="2,11" type="0" value="FGUDCLOR=Accent 1 -50" />
+      <C pos="2,12" type="0" value="FGUDCLOR=Accent 1 -50" />
+      <C pos="2,13" type="0" value="BORD=LF" />
+      <C pos="3,1" type="0" value="BORD=BTMT#FFA9BCD1" />
+      <C pos="3,2" type="0" value="BORD=BTMT#FFA9BCD1" />
+      <C pos="3,3" type="0" value="BORD=BTMT#FFA9BCD1" />
+      <C pos="3,4" type="0" value="BORD=BTMT#FFA9BCD1RT" />
+      <C pos="3,5" type="0" value="FGUDCLOR=Accent 1 -50" />
+      <C pos="3,6" type="0" value="FGUDCLOR=Accent 1 -50" />
+      <C pos="3,7" type="0" value="FGUDCLOR=Accent 1 -50" />
+      <C pos="3,8" type="0" value="FGUDCLOR=Accent 1 -50" />
+      <C pos="3,9" type="0" value="FGUDCLOR=Accent 1 -50" />
+      <C pos="3,10" type="0" value="FGUDCLOR=Accent 1 -50" />
+      <C pos="3,11" type="0" value="FGUDCLOR=Accent 1 -50" />
+      <C pos="3,12" type="0" value="FGUDCLOR=Accent 1 -50" />
+      <C pos="3,13" type="0" value="BORD=BTMT#FFA9BCD1LF" />
+      <C pos="3,14" type="0" value="BORD=BTMT#FFA9BCD1" />
+      <C pos="3,15" type="0" value="BORD=BTMT#FFA9BCD1" />
+      <C pos="3,16" type="0" value="BORD=BTMT#FFA9BCD1" />
+      <C pos="4,1" type="0" value="BORD=TP" />
+      <C pos="4,2" type="0" value="BORD=TP" />
+      <C pos="4,3" type="0" value="BORD=TP" />
+      <C pos="4,4" type="0" value="BORD=TP" />
+      <C pos="4,5" type="0" value="BORD=TP" />
+      <C pos="4,6" type="0" value="BORD=TP" />
+      <C pos="4,7" type="0" value="BORD=TP" />
+      <C pos="4,8" type="0" value="BORD=TP" />
+      <C pos="4,9" type="0" value="BORD=TP" />
+      <C pos="4,10" type="0" value="BORD=TP" />
+      <C pos="4,11" type="0" value="BORD=TP" />
+      <C pos="4,12" type="0" value="BORD=TP" />
+      <C pos="4,13" type="0" value="BORD=TP" />
+      <C pos="4,14" type="0" value="BORD=TP" />
+      <C pos="4,15" type="0" value="BORD=TP" />
+      <C pos="4,16" type="0" value="BORD=TP" />
+      <C pos="5,1" type="0" value="FGUDCLOR=#FF3F3F3FHVLIGN=CenterINDENT=0BORD=BTMLFRTTPFMT=General" />
+      <C pos="7,1" type="0" value="FSIZE=14.67FWight=BoldFGUDCLOR=#FF7F7F7FBORD=BTMLFRTTPFMT=General" />
+      <C pos="9,1" type="0" value="FGUDCLOR=#FF3F3F3FFMT=GeneralWRAPTEXT=TRUE" />
+      <C pos="12,1" type="0" value="FSIZE=14.67FWight=BoldFGUDCLOR=#FF7F7F7FBORD=BTMLFRTTPFMT=General" />
+      <C pos="14,1" type="0" value="FSIZE=14.67FGUDCLOR=#FF3F3F3FHVLIGN=LeftFMT=General" />
+      <C pos="14,2" type="0" value="FUNDLIN=TrueFGUDCLOR=#FF0070C0BORD=BTMLFRTTPFMT=General" />
+      <C pos="16,1" type="0" value="FSIZE=14.67FGUDCLOR=#FF3F3F3FVALIGN=TopHVLIGN=LeftFMT=General" />
+      <C pos="16,2" type="0" value="FGUDCLOR=#FF3F3F3FVALIGN=TopWRAPTXT=TrueBORD=BTMLFRTTPFMT=General" />
+      <C pos="19,1" type="0" value="FSIZE=14.67FGUDCLOR=#FF3F3F3FHVLIGN=LeftFMT=General" />
+      <C pos="19,2" type="0" value="FGUDCLOR=#FF3F3F3FFMT=General" />
+      <C pos="22,13" type="0" value="FMT=General" />
+      <Types>
+        <Type id="0" name="System.String" assembly="mscorlib" />
+      </Types>
+    </Style>
+    <Tag>
+      <C pos="14,2" type="0">
+        <CellType class="Forguncy.HyperlinkCellType" assembly="Forguncy">
+          <ForguncyAttribute>401Login</ForguncyAttribute>
+          <Text>一旦ログオフし、異なるアカウントでログインする</Text>
+        </CellType>
+        <IsCellIgnoreHideInListview>False</IsCellIgnoreHideInListview>
+      </C>
+      <Types>
+        <Type id="0" name="Forguncy.AttachedInfo" assembly="Forguncy" />
+      </Types>
+    </Tag>
+  </CellBlock>
+  <RowHeaderBlock rc="25" cc="1" />
+  <ColumnHeaderBlock rc="1" cc="18" />
+  <ViewportRowsAxis length="25" />
+  <ViewportColumnsAxis length="18" />
+  <RowHeaderColumnsAxis length="1">
+    <Item index="0">
+      <CanUserResize value="False" />
+    </Item>
+  </RowHeaderColumnsAxis>
+  <ColumnHeaderRowsAxis length="1">
+    <Item index="0">
+      <CanUserResize value="False" />
+    </Item>
+  </ColumnHeaderRowsAxis>
+  <ViewportRowsAxisStyle length="25" />
+  <ViewportColumnsAxisStyle length="18" />
+  <RowHeaderRowsAxisStyle length="25" />
+  <RowHeaderColumnsAxisStyle length="1" />
+  <ColumnHeaderRowsAxisStyle length="1" />
+  <ColumnHeaderColumnsAxisStyle length="18" />
+  <CellsSpanModel>
+    <Items>
+      <Item r="2" c="4" rc="2" cc="9" />
+      <Item r="5" c="1" rc="1" cc="16" />
+      <Item r="7" c="1" rc="2" cc="16" />
+      <Item r="9" c="1" rc="2" cc="17" />
+      <Item r="12" c="1" rc="2" cc="16" />
+      <Item r="16" c="2" rc="2" cc="15" />
+    </Items>
+  </CellsSpanModel>
+  <Tag type="Forguncy.Model.Pages.SheetAttachData" assembly="Forguncy, Version=5.0.100.0, Culture=neutral, PublicKeyToken=967100671921c115">
+    <PageInfo class="Forguncy.Model.Pages.NormalPage" assembly="Forguncy">
+      <IsBuiltInPage>True</IsBuiltInPage>
+      <IsMobilePage>True</IsMobilePage>
+      <Name>FGC_401ページ_モバイル</Name>
+      <Title>401ページ</Title>
+    </PageInfo>
+  </Tag>
+</Sheet>

@@ -1,0 +1,544 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sheet name="FGC_ログイン_モバイル">
+  <DefaultColumnWidth value="20" />
+  <PrintInfo>
+    <Margin />
+    <PaperSize />
+  </PrintInfo>
+  <NamedStyles>
+    <Item index="0" type="StyleInfo">
+      <Name value="BORD=TP" />
+      <TopBorder value="(null)" />
+    </Item>
+    <Item index="1" type="StyleInfo">
+      <Name value="BORD=BTM" />
+      <BottomBorder value="(null)" />
+    </Item>
+    <Item index="2" type="StyleInfo">
+      <Name value="BORD=BTMLFRTTP" />
+      <LeftBorder value="(null)" />
+      <TopBorder value="(null)" />
+      <RightBorder value="(null)" />
+      <BottomBorder value="(null)" />
+    </Item>
+    <Item index="3" type="StyleInfo">
+      <Name value="BORD=RT" />
+      <RightBorder value="(null)" />
+    </Item>
+    <Item index="4" type="StyleInfo">
+      <Name value="BORD=LF" />
+      <LeftBorder value="(null)" />
+    </Item>
+    <Item index="5" type="StyleInfo">
+      <Name value="BORD=BTMT#FFA9BCD1LFRTTP" />
+      <LeftBorder value="(null)" />
+      <TopBorder value="(null)" />
+      <RightBorder value="(null)" />
+      <BottomBorder>
+        <Type value="Thin" />
+        <Color value="#FFA9BCD1" />
+      </BottomBorder>
+    </Item>
+    <Item index="6" type="StyleInfo">
+      <Name value="FGUDCLOR=#FF7F7F7FBORD=BTMLFRTTP" />
+      <LeftBorder value="(null)" />
+      <TopBorder value="(null)" />
+      <RightBorder value="(null)" />
+      <BottomBorder value="(null)" />
+      <Foreground value="#FF7F7F7F" />
+    </Item>
+    <Item index="7" type="StyleInfo">
+      <Name value="FSIZE=12.00FGUDCLOR=#FF7F7F7FHVLIGN=CenterINDENT=0BORD=BTMLFRTTPFMT=GeneralWRAPTEXT=TRUE" />
+      <FontSize value="12" />
+      <HorizontalAlignment value="Center" />
+      <TextIndent value="0" />
+      <WordWrap value="True" />
+      <LeftBorder value="(null)" />
+      <TopBorder value="(null)" />
+      <RightBorder value="(null)" />
+      <BottomBorder value="(null)" />
+      <Foreground value="#FF7F7F7F" />
+      <Formatter value="[Auto]General" />
+    </Item>
+    <Item index="8" type="StyleInfo">
+      <Name value="FUNDLIN=TrueFGUDCLOR=#FF538BD5HVLIGN=RightBORD=BTMLFRTTPFMT=General" />
+      <HorizontalAlignment value="Right" />
+      <LeftBorder value="(null)" />
+      <TopBorder value="(null)" />
+      <RightBorder value="(null)" />
+      <BottomBorder value="(null)" />
+      <Foreground value="#FF538BD5" />
+      <Formatter value="[Auto]General" />
+      <Underline value="True" />
+    </Item>
+    <Item index="9" type="StyleInfo">
+      <Name value="FGUDCLOR=#FF7F7F7FBORD=BTMLFRTTPFMT=General" />
+      <LeftBorder value="(null)" />
+      <TopBorder value="(null)" />
+      <RightBorder value="(null)" />
+      <BottomBorder value="(null)" />
+      <Foreground value="#FF7F7F7F" />
+      <Formatter value="[Auto]General" />
+    </Item>
+    <Item index="10" type="StyleInfo">
+      <Name value="FGUDCLOR=#FF0070C0" />
+      <Foreground value="#FF0070C0" />
+    </Item>
+    <Item index="11" type="StyleInfo">
+      <Name value="FSIZE=16.00FWight=BoldBKGUDCOLR=FGUDCLOR=BORD=BTMLFRTTPFMT=General" />
+      <FontSize value="16" />
+      <FontWeight value="Bold" />
+      <LeftBorder value="(null)" />
+      <TopBorder value="(null)" />
+      <RightBorder value="(null)" />
+      <BottomBorder value="(null)" />
+      <Background />
+      <Foreground />
+      <Formatter value="[Auto]General" />
+    </Item>
+    <Item index="12" type="StyleInfo">
+      <Name value="FSIZE=21.33FGUDCLOR=Accent 1 -50VALIGN=TopHVLIGN=CenterINDENT=0BORD=BTMLFRTTPFMT=General" />
+      <FontSize value="21.3333339691162" />
+      <HorizontalAlignment value="Center" />
+      <VerticalAlignment value="Top" />
+      <TextIndent value="0" />
+      <LeftBorder value="(null)" />
+      <TopBorder value="(null)" />
+      <RightBorder value="(null)" />
+      <BottomBorder value="(null)" />
+      <Foreground value="Accent 1 -50" />
+      <Formatter value="[Auto]General" />
+    </Item>
+    <Item index="13" type="StyleInfo">
+      <Name value="FGUDCLOR=Accent 1 -50" />
+      <Foreground value="Accent 1 -50" />
+    </Item>
+    <Item index="14" type="StyleInfo">
+      <Name value="FSIZE=-1.00FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=" />
+      <FontStretch value="Normal" />
+      <FontStyle value="Normal" />
+      <FontWeight value="Normal" />
+      <HorizontalAlignment value="General" />
+      <VerticalAlignment value="Center" />
+      <TextIndent value="0" />
+      <WordWrap value="False" />
+      <LeftBorder value="(null)" />
+      <TopBorder value="(null)" />
+      <RightBorder value="(null)" />
+      <BottomBorder value="(null)" />
+      <Background />
+      <Foreground />
+      <Formatter value="(null)" />
+      <Underline value="False" />
+      <Strikethrough value="False" />
+    </Item>
+    <Item index="15" type="StyleInfo">
+      <Name value="FFMLY=BodyFSIZE=13.33FGUDCLOR=#FF000000BORD=BTMLFRTTP" />
+      <FontFamily value="Body" />
+      <FontSize value="13.3333330154419" />
+      <LeftBorder value="(null)" />
+      <TopBorder value="(null)" />
+      <RightBorder value="(null)" />
+      <BottomBorder value="(null)" />
+      <Foreground value="#FF000000" />
+    </Item>
+    <Item index="16" type="StyleInfo">
+      <Name value="FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=@" />
+      <FontStretch value="Normal" />
+      <FontStyle value="Normal" />
+      <FontWeight value="Normal" />
+      <HorizontalAlignment value="General" />
+      <VerticalAlignment value="Center" />
+      <TextIndent value="0" />
+      <WordWrap value="False" />
+      <LeftBorder value="(null)" />
+      <TopBorder value="(null)" />
+      <RightBorder value="(null)" />
+      <BottomBorder value="(null)" />
+      <Background />
+      <Foreground />
+      <Formatter value="@" />
+      <Underline value="False" />
+      <Strikethrough value="False" />
+    </Item>
+  </NamedStyles>
+  <DefaultStyle>
+    <FontFamily value="Body" />
+    <FontSize value="13.3333330154419" />
+    <Foreground value="#FF000000" />
+  </DefaultStyle>
+  <DefaultColumnHeaderStyle>
+    <FontFamily value="MS PGothic" />
+    <HorizontalAlignment value="Center" />
+    <VerticalAlignment value="Center" />
+  </DefaultColumnHeaderStyle>
+  <DefaultRowHeaderStyle>
+    <FontFamily value="MS PGothic" />
+    <HorizontalAlignment value="Center" />
+    <VerticalAlignment value="Center" />
+  </DefaultRowHeaderStyle>
+  <SelectionBorderColor />
+  <TouchSelectionGripperBackgroundColor value="#FFFFFFFF" />
+  <CellBlock rc="26" cc="19">
+    <Data>
+      <C pos="7,3" type="0" value="Forguncyアプリケーション" />
+      <C pos="16,15" type="0" value="パスワードを忘れた場合" />
+      <C pos="17,3" type="0" Base64value="True" value="2J6kiyaNN2Ia/0EAZABtAGkAbgBpAHMAdAByAGEAdABvAHIACgDYnqSLxlsBeBr/MQAyADMANAA1ADYA" />
+      <C pos="20,3" type="0" value="ログイン" />
+      <C pos="24,1" type="0" value="管理者から付与されたアカウントを使用してログインすることができます。" />
+      <Types>
+        <Type id="0" name="System.String" assembly="mscorlib" />
+      </Types>
+    </Data>
+    <Style>
+      <C pos="0,5" type="0" value="BORD=BTMLFRTTP" />
+      <C pos="1,5" type="0" value="BORD=BTMLFRTTP" />
+      <C pos="2,0" type="0" value="BORD=BTMLFRTTP" />
+      <C pos="2,4" type="0" value="FFMLY=BodyFSIZE=13.33FGUDCLOR=#FF000000BORD=BTMLFRTTP" />
+      <C pos="2,5" type="0" value="FFMLY=BodyFSIZE=13.33FGUDCLOR=#FF000000BORD=BTMLFRTTP" />
+      <C pos="2,6" type="0" value="FFMLY=BodyFSIZE=13.33FGUDCLOR=#FF000000BORD=BTMLFRTTP" />
+      <C pos="2,7" type="0" value="FFMLY=BodyFSIZE=13.33FGUDCLOR=#FF000000BORD=BTMLFRTTP" />
+      <C pos="2,8" type="0" value="FFMLY=BodyFSIZE=13.33FGUDCLOR=#FF000000BORD=BTMLFRTTP" />
+      <C pos="2,9" type="0" value="FFMLY=BodyFSIZE=13.33FGUDCLOR=#FF000000BORD=BTMLFRTTP" />
+      <C pos="2,10" type="0" value="FFMLY=BodyFSIZE=13.33FGUDCLOR=#FF000000BORD=BTMLFRTTP" />
+      <C pos="2,11" type="0" value="FFMLY=BodyFSIZE=13.33FGUDCLOR=#FF000000BORD=BTMLFRTTP" />
+      <C pos="2,12" type="0" value="FFMLY=BodyFSIZE=13.33FGUDCLOR=#FF000000BORD=BTMLFRTTP" />
+      <C pos="2,13" type="0" value="FFMLY=BodyFSIZE=13.33FGUDCLOR=#FF000000BORD=BTMLFRTTP" />
+      <C pos="2,14" type="0" value="FFMLY=BodyFSIZE=13.33FGUDCLOR=#FF000000BORD=BTMLFRTTP" />
+      <C pos="3,1" type="0" value="BORD=BTM" />
+      <C pos="3,2" type="0" value="BORD=BTM" />
+      <C pos="3,3" type="0" value="BORD=BTM" />
+      <C pos="3,4" type="0" value="FFMLY=BodyFSIZE=13.33FGUDCLOR=#FF000000BORD=BTMLFRTTP" />
+      <C pos="3,5" type="0" value="FFMLY=BodyFSIZE=13.33FGUDCLOR=#FF000000BORD=BTMLFRTTP" />
+      <C pos="3,6" type="0" value="FFMLY=BodyFSIZE=13.33FGUDCLOR=#FF000000BORD=BTMLFRTTP" />
+      <C pos="3,7" type="0" value="FFMLY=BodyFSIZE=13.33FGUDCLOR=#FF000000BORD=BTMLFRTTP" />
+      <C pos="3,8" type="0" value="FFMLY=BodyFSIZE=13.33FGUDCLOR=#FF000000BORD=BTMLFRTTP" />
+      <C pos="3,9" type="0" value="FFMLY=BodyFSIZE=13.33FGUDCLOR=#FF000000BORD=BTMLFRTTP" />
+      <C pos="3,10" type="0" value="FFMLY=BodyFSIZE=13.33FGUDCLOR=#FF000000BORD=BTMLFRTTP" />
+      <C pos="3,11" type="0" value="FFMLY=BodyFSIZE=13.33FGUDCLOR=#FF000000BORD=BTMLFRTTP" />
+      <C pos="3,12" type="0" value="FFMLY=BodyFSIZE=13.33FGUDCLOR=#FF000000BORD=BTMLFRTTP" />
+      <C pos="3,13" type="0" value="FFMLY=BodyFSIZE=13.33FGUDCLOR=#FF000000BORD=BTMLFRTTP" />
+      <C pos="3,14" type="0" value="FFMLY=BodyFSIZE=13.33FGUDCLOR=#FF000000BORD=BTMLFRTTP" />
+      <C pos="3,15" type="0" value="BORD=BTM" />
+      <C pos="3,16" type="0" value="BORD=BTM" />
+      <C pos="3,17" type="0" value="BORD=BTM" />
+      <C pos="4,0" type="0" value="BORD=RT" />
+      <C pos="4,1" type="0" value="BORD=BTMT#FFA9BCD1LFRTTP" />
+      <C pos="4,2" type="0" value="BORD=BTMT#FFA9BCD1LFRTTP" />
+      <C pos="4,3" type="0" value="BORD=BTMT#FFA9BCD1LFRTTP" />
+      <C pos="4,4" type="0" value="FFMLY=BodyFSIZE=13.33FGUDCLOR=#FF000000BORD=BTMLFRTTP" />
+      <C pos="4,5" type="0" value="FFMLY=BodyFSIZE=13.33FGUDCLOR=#FF000000BORD=BTMLFRTTP" />
+      <C pos="4,6" type="0" value="FFMLY=BodyFSIZE=13.33FGUDCLOR=#FF000000BORD=BTMLFRTTP" />
+      <C pos="4,7" type="0" value="FFMLY=BodyFSIZE=13.33FGUDCLOR=#FF000000BORD=BTMLFRTTP" />
+      <C pos="4,8" type="0" value="FFMLY=BodyFSIZE=13.33FGUDCLOR=#FF000000BORD=BTMLFRTTP" />
+      <C pos="4,9" type="0" value="FFMLY=BodyFSIZE=13.33FGUDCLOR=#FF000000BORD=BTMLFRTTP" />
+      <C pos="4,10" type="0" value="FFMLY=BodyFSIZE=13.33FGUDCLOR=#FF000000BORD=BTMLFRTTP" />
+      <C pos="4,11" type="0" value="FFMLY=BodyFSIZE=13.33FGUDCLOR=#FF000000BORD=BTMLFRTTP" />
+      <C pos="4,12" type="0" value="FFMLY=BodyFSIZE=13.33FGUDCLOR=#FF000000BORD=BTMLFRTTP" />
+      <C pos="4,13" type="0" value="FFMLY=BodyFSIZE=13.33FGUDCLOR=#FF000000BORD=BTMLFRTTP" />
+      <C pos="4,14" type="0" value="FFMLY=BodyFSIZE=13.33FGUDCLOR=#FF000000BORD=BTMLFRTTP" />
+      <C pos="4,15" type="0" value="BORD=BTMT#FFA9BCD1LFRTTP" />
+      <C pos="4,16" type="0" value="BORD=BTMT#FFA9BCD1LFRTTP" />
+      <C pos="4,17" type="0" value="BORD=BTMT#FFA9BCD1LFRTTP" />
+      <C pos="4,18" type="0" value="BORD=LF" />
+      <C pos="5,1" type="0" value="BORD=TP" />
+      <C pos="5,2" type="0" value="BORD=TP" />
+      <C pos="5,3" type="0" value="BORD=TP" />
+      <C pos="5,4" type="0" value="FFMLY=BodyFSIZE=13.33FGUDCLOR=#FF000000BORD=BTMLFRTTP" />
+      <C pos="5,5" type="0" value="FFMLY=BodyFSIZE=13.33FGUDCLOR=#FF000000BORD=BTMLFRTTP" />
+      <C pos="5,6" type="0" value="FFMLY=BodyFSIZE=13.33FGUDCLOR=#FF000000BORD=BTMLFRTTP" />
+      <C pos="5,7" type="0" value="FFMLY=BodyFSIZE=13.33FGUDCLOR=#FF000000BORD=BTMLFRTTP" />
+      <C pos="5,8" type="0" value="FFMLY=BodyFSIZE=13.33FGUDCLOR=#FF000000BORD=BTMLFRTTP" />
+      <C pos="5,9" type="0" value="FFMLY=BodyFSIZE=13.33FGUDCLOR=#FF000000BORD=BTMLFRTTP" />
+      <C pos="5,10" type="0" value="FFMLY=BodyFSIZE=13.33FGUDCLOR=#FF000000BORD=BTMLFRTTP" />
+      <C pos="5,11" type="0" value="FFMLY=BodyFSIZE=13.33FGUDCLOR=#FF000000BORD=BTMLFRTTP" />
+      <C pos="5,12" type="0" value="FFMLY=BodyFSIZE=13.33FGUDCLOR=#FF000000BORD=BTMLFRTTP" />
+      <C pos="5,13" type="0" value="FFMLY=BodyFSIZE=13.33FGUDCLOR=#FF000000BORD=BTMLFRTTP" />
+      <C pos="5,14" type="0" value="FFMLY=BodyFSIZE=13.33FGUDCLOR=#FF000000BORD=BTMLFRTTP" />
+      <C pos="5,15" type="0" value="BORD=TP" />
+      <C pos="5,16" type="0" value="BORD=TP" />
+      <C pos="5,17" type="0" value="BORD=TP" />
+      <C pos="6,5" type="0" value="BORD=BTMLFRTTP" />
+      <C pos="7,3" type="0" value="FSIZE=21.33FGUDCLOR=Accent 1 -50VALIGN=TopHVLIGN=CenterINDENT=0BORD=BTMLFRTTPFMT=General" />
+      <C pos="7,4" type="0" value="FGUDCLOR=Accent 1 -50" />
+      <C pos="7,5" type="0" value="FGUDCLOR=Accent 1 -50" />
+      <C pos="7,6" type="0" value="FGUDCLOR=Accent 1 -50" />
+      <C pos="7,7" type="0" value="FGUDCLOR=Accent 1 -50" />
+      <C pos="7,8" type="0" value="FGUDCLOR=Accent 1 -50" />
+      <C pos="7,9" type="0" value="FGUDCLOR=Accent 1 -50" />
+      <C pos="7,10" type="0" value="FGUDCLOR=Accent 1 -50" />
+      <C pos="7,11" type="0" value="FGUDCLOR=Accent 1 -50" />
+      <C pos="7,12" type="0" value="FGUDCLOR=Accent 1 -50" />
+      <C pos="7,13" type="0" value="FGUDCLOR=Accent 1 -50" />
+      <C pos="7,14" type="0" value="FGUDCLOR=Accent 1 -50" />
+      <C pos="7,15" type="0" value="FGUDCLOR=Accent 1 -50" />
+      <C pos="8,3" type="0" value="FGUDCLOR=Accent 1 -50" />
+      <C pos="8,4" type="0" value="FGUDCLOR=Accent 1 -50" />
+      <C pos="8,5" type="0" value="FGUDCLOR=Accent 1 -50" />
+      <C pos="8,6" type="0" value="FGUDCLOR=Accent 1 -50" />
+      <C pos="8,7" type="0" value="FGUDCLOR=Accent 1 -50" />
+      <C pos="8,8" type="0" value="FGUDCLOR=Accent 1 -50" />
+      <C pos="8,9" type="0" value="FGUDCLOR=Accent 1 -50" />
+      <C pos="8,10" type="0" value="FGUDCLOR=Accent 1 -50" />
+      <C pos="8,11" type="0" value="FGUDCLOR=Accent 1 -50" />
+      <C pos="8,12" type="0" value="FGUDCLOR=Accent 1 -50" />
+      <C pos="8,13" type="0" value="FGUDCLOR=Accent 1 -50" />
+      <C pos="8,14" type="0" value="FGUDCLOR=Accent 1 -50" />
+      <C pos="8,15" type="0" value="FGUDCLOR=Accent 1 -50" />
+      <C pos="9,2" type="0" value="FSIZE=-1.00FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=" />
+      <C pos="9,3" type="0" value="FSIZE=-1.00FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=" />
+      <C pos="9,4" type="0" value="FSIZE=-1.00FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=" />
+      <C pos="9,5" type="0" value="FSIZE=-1.00FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=" />
+      <C pos="9,6" type="0" value="FSIZE=-1.00FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=" />
+      <C pos="9,7" type="0" value="FSIZE=-1.00FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=" />
+      <C pos="9,8" type="0" value="FSIZE=-1.00FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=" />
+      <C pos="9,9" type="0" value="FSIZE=-1.00FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=" />
+      <C pos="9,10" type="0" value="FSIZE=-1.00FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=" />
+      <C pos="9,11" type="0" value="FSIZE=-1.00FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=" />
+      <C pos="9,12" type="0" value="FSIZE=-1.00FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=" />
+      <C pos="9,13" type="0" value="FSIZE=-1.00FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=" />
+      <C pos="9,14" type="0" value="FSIZE=-1.00FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=" />
+      <C pos="9,15" type="0" value="FSIZE=-1.00FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=" />
+      <C pos="9,16" type="0" value="FSIZE=-1.00FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=" />
+      <C pos="10,2" type="0" value="FSIZE=-1.00FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=" />
+      <C pos="10,3" type="0" value="FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=@" />
+      <C pos="10,4" type="0" value="FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=@" />
+      <C pos="10,5" type="0" value="FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=@" />
+      <C pos="10,6" type="0" value="FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=@" />
+      <C pos="10,7" type="0" value="FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=@" />
+      <C pos="10,8" type="0" value="FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=@" />
+      <C pos="10,9" type="0" value="FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=@" />
+      <C pos="10,10" type="0" value="FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=@" />
+      <C pos="10,11" type="0" value="FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=@" />
+      <C pos="10,12" type="0" value="FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=@" />
+      <C pos="10,13" type="0" value="FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=@" />
+      <C pos="10,14" type="0" value="FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=@" />
+      <C pos="10,15" type="0" value="FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=@" />
+      <C pos="10,16" type="0" value="FSIZE=-1.00FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=" />
+      <C pos="11,2" type="0" value="FSIZE=-1.00FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=" />
+      <C pos="11,3" type="0" value="FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=@" />
+      <C pos="11,4" type="0" value="FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=@" />
+      <C pos="11,5" type="0" value="FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=@" />
+      <C pos="11,6" type="0" value="FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=@" />
+      <C pos="11,7" type="0" value="FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=@" />
+      <C pos="11,8" type="0" value="FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=@" />
+      <C pos="11,9" type="0" value="FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=@" />
+      <C pos="11,10" type="0" value="FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=@" />
+      <C pos="11,11" type="0" value="FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=@" />
+      <C pos="11,12" type="0" value="FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=@" />
+      <C pos="11,13" type="0" value="FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=@" />
+      <C pos="11,14" type="0" value="FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=@" />
+      <C pos="11,15" type="0" value="FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=@" />
+      <C pos="11,16" type="0" value="FSIZE=-1.00FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=" />
+      <C pos="12,2" type="0" value="FSIZE=-1.00FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=" />
+      <C pos="12,3" type="0" value="FSIZE=-1.00FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=" />
+      <C pos="12,4" type="0" value="FSIZE=-1.00FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=" />
+      <C pos="12,5" type="0" value="FSIZE=-1.00FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=" />
+      <C pos="12,6" type="0" value="FSIZE=-1.00FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=" />
+      <C pos="12,7" type="0" value="FSIZE=-1.00FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=" />
+      <C pos="12,8" type="0" value="FSIZE=-1.00FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=" />
+      <C pos="12,9" type="0" value="FSIZE=-1.00FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=" />
+      <C pos="12,10" type="0" value="FSIZE=-1.00FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=" />
+      <C pos="12,11" type="0" value="FSIZE=-1.00FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=" />
+      <C pos="12,12" type="0" value="FSIZE=-1.00FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=" />
+      <C pos="12,13" type="0" value="FSIZE=-1.00FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=" />
+      <C pos="12,14" type="0" value="FSIZE=-1.00FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=" />
+      <C pos="12,15" type="0" value="FSIZE=-1.00FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=" />
+      <C pos="12,16" type="0" value="FSIZE=-1.00FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=" />
+      <C pos="12,18" type="0" value="FGUDCLOR=#FF0070C0" />
+      <C pos="13,2" type="0" value="FSIZE=-1.00FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=" />
+      <C pos="13,3" type="0" value="FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=@" />
+      <C pos="13,4" type="0" value="FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=@" />
+      <C pos="13,5" type="0" value="FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=@" />
+      <C pos="13,6" type="0" value="FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=@" />
+      <C pos="13,7" type="0" value="FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=@" />
+      <C pos="13,8" type="0" value="FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=@" />
+      <C pos="13,9" type="0" value="FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=@" />
+      <C pos="13,10" type="0" value="FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=@" />
+      <C pos="13,11" type="0" value="FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=@" />
+      <C pos="13,12" type="0" value="FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=@" />
+      <C pos="13,13" type="0" value="FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=@" />
+      <C pos="13,14" type="0" value="FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=@" />
+      <C pos="13,15" type="0" value="FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=@" />
+      <C pos="13,16" type="0" value="FSIZE=-1.00FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=" />
+      <C pos="14,2" type="0" value="FSIZE=-1.00FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=" />
+      <C pos="14,3" type="0" value="FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=@" />
+      <C pos="14,4" type="0" value="FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=@" />
+      <C pos="14,5" type="0" value="FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=@" />
+      <C pos="14,6" type="0" value="FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=@" />
+      <C pos="14,7" type="0" value="FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=@" />
+      <C pos="14,8" type="0" value="FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=@" />
+      <C pos="14,9" type="0" value="FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=@" />
+      <C pos="14,10" type="0" value="FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=@" />
+      <C pos="14,11" type="0" value="FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=@" />
+      <C pos="14,12" type="0" value="FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=@" />
+      <C pos="14,13" type="0" value="FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=@" />
+      <C pos="14,14" type="0" value="FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=@" />
+      <C pos="14,15" type="0" value="FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=@" />
+      <C pos="14,16" type="0" value="FSIZE=-1.00FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=" />
+      <C pos="15,2" type="0" value="FSIZE=-1.00FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=" />
+      <C pos="15,3" type="0" value="FSIZE=-1.00FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=" />
+      <C pos="15,4" type="0" value="FSIZE=-1.00FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=" />
+      <C pos="15,5" type="0" value="FSIZE=-1.00FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=" />
+      <C pos="15,6" type="0" value="FSIZE=-1.00FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=" />
+      <C pos="15,7" type="0" value="FSIZE=-1.00FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=" />
+      <C pos="15,8" type="0" value="FSIZE=-1.00FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=" />
+      <C pos="15,9" type="0" value="FSIZE=-1.00FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=" />
+      <C pos="15,10" type="0" value="FSIZE=-1.00FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=" />
+      <C pos="15,11" type="0" value="FSIZE=-1.00FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=" />
+      <C pos="15,12" type="0" value="FSIZE=-1.00FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=" />
+      <C pos="15,13" type="0" value="FSIZE=-1.00FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=" />
+      <C pos="15,14" type="0" value="FSIZE=-1.00FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=" />
+      <C pos="15,15" type="0" value="FSIZE=-1.00FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=" />
+      <C pos="15,16" type="0" value="FSIZE=-1.00FWight=NormalFSTYLE=NormalFUNDLIN=FalseFSTRIKE=FalseBKGUDCOLR=FGUDCLOR=VALIGN=CenterHVLIGN=GeneralINDENT=0WRAPTXT=FalseBORD=BTMLFRTTPFMT=" />
+      <C pos="16,3" type="0" value="FGUDCLOR=#FF7F7F7FBORD=BTMLFRTTP" />
+      <C pos="16,15" type="0" value="FUNDLIN=TrueFGUDCLOR=#FF538BD5HVLIGN=RightBORD=BTMLFRTTPFMT=General" />
+      <C pos="17,3" type="0" value="FGUDCLOR=#FF7F7F7FBORD=BTMLFRTTPFMT=General" />
+      <C pos="18,0" type="0" value="BORD=BTMLFRTTP" />
+      <C pos="18,1" type="0" value="BORD=BTMLFRTTP" />
+      <C pos="18,2" type="0" value="BORD=BTMLFRTTP" />
+      <C pos="18,16" type="0" value="BORD=BTMLFRTTP" />
+      <C pos="18,17" type="0" value="BORD=BTMLFRTTP" />
+      <C pos="18,18" type="0" value="BORD=BTMLFRTTP" />
+      <C pos="20,3" type="0" value="FSIZE=16.00FWight=BoldBKGUDCOLR=FGUDCLOR=BORD=BTMLFRTTPFMT=General" />
+      <C pos="22,5" type="0" value="BORD=BTMLFRTTP" />
+      <C pos="23,5" type="0" value="BORD=BTMLFRTTP" />
+      <C pos="24,1" type="0" value="FSIZE=12.00FGUDCLOR=#FF7F7F7FHVLIGN=CenterINDENT=0BORD=BTMLFRTTPFMT=GeneralWRAPTEXT=TRUE" />
+      <C pos="25,5" type="0" value="BORD=BTMLFRTTP" />
+      <Types>
+        <Type id="0" name="System.String" assembly="mscorlib" />
+      </Types>
+    </Style>
+    <Tag>
+      <C pos="2,4" type="0">
+        <CellType class="Forguncy.ImageCellType" assembly="Forguncy">
+          <ImagePath>fgc_logo_dark.png</ImagePath>
+          <ImageSizeMode>Contain</ImageSizeMode>
+          <TemplateKey>_RS_Normal1</TemplateKey>
+        </CellType>
+        <IsCellIgnoreHideInListview>False</IsCellIgnoreHideInListview>
+      </C>
+      <C pos="10,3" type="0">
+        <CellType class="Forguncy.TextCellType" assembly="Forguncy">
+          <ForguncyAttribute>LogIn_Username</ForguncyAttribute>
+          <Icon>
+            <BuiltIn>True</BuiltIn>
+            <Color>#FF7F7F7F</Color>
+            <Name>Navigation/169_user_2.svg</Name>
+          </Icon>
+          <IconSize>18</IconSize>
+          <TemplateKey>_RS_LightLine_Translucent_SmallRoundCorner_Normal1</TemplateKey>
+          <Validators>
+            <Item class="Forguncy.CellTypes.Models.UniqueValidadator" assembly="Forguncy" />
+          </Validators>
+          <WaterMark>ユーザー名</WaterMark>
+        </CellType>
+        <DataValidationInfo>
+          <IgnoreBlank>False</IgnoreBlank>
+          <SelectedDefaultRegularExpression />
+        </DataValidationInfo>
+        <IsCellIgnoreHideInListview>False</IsCellIgnoreHideInListview>
+      </C>
+      <C pos="13,3" type="0">
+        <CellType class="Forguncy.TextCellType" assembly="Forguncy">
+          <ForguncyAttribute>LogIn_Password</ForguncyAttribute>
+          <Icon>
+            <BuiltIn>True</BuiltIn>
+            <Color>#FF7F7F7F</Color>
+            <Name>Application/078_lock_1.svg</Name>
+          </Icon>
+          <IconSize>18</IconSize>
+          <ShowPassword>True</ShowPassword>
+          <TemplateKey>_RS_LightLine_Translucent_SmallRoundCorner_Normal1</TemplateKey>
+          <Validators>
+            <Item class="Forguncy.CellTypes.Models.UniqueValidadator" assembly="Forguncy" />
+          </Validators>
+          <WaterMark>パスワード</WaterMark>
+        </CellType>
+        <DataValidationInfo>
+          <IgnoreBlank>False</IgnoreBlank>
+          <SelectedDefaultRegularExpression />
+        </DataValidationInfo>
+        <IsCellIgnoreHideInListview>False</IsCellIgnoreHideInListview>
+      </C>
+      <C pos="16,3" type="0">
+        <CellType class="Forguncy.CheckBoxCellType" assembly="Forguncy">
+          <Caption>ログインしたままにする</Caption>
+          <ForguncyAttribute>LogIn_RememberMe</ForguncyAttribute>
+          <Style>Modern</Style>
+        </CellType>
+        <IsCellIgnoreHideInListview>False</IsCellIgnoreHideInListview>
+      </C>
+      <C pos="16,15" type="0">
+        <CellType class="Forguncy.HyperlinkCellType" assembly="Forguncy">
+          <CommandList>
+            <Item class="Forguncy.Model.NavigateCommand" assembly="Forguncy">
+              <PageName>FGC_パスワードを忘れた場合_モバイル</PageName>
+            </Item>
+          </CommandList>
+          <Text>パスワードを忘れた場合</Text>
+        </CellType>
+        <IsCellIgnoreHideInListview>False</IsCellIgnoreHideInListview>
+      </C>
+      <C pos="20,3" type="0">
+        <CellType class="Forguncy.ButtonCellType" assembly="Forguncy">
+          <AutoExecute>True</AutoExecute>
+          <ForguncyAttribute>LogIn_Button</ForguncyAttribute>
+          <TemplateKey>_RS_Normal_Style2</TemplateKey>
+          <Text>ログイン</Text>
+        </CellType>
+        <IsCellIgnoreHideInListview>False</IsCellIgnoreHideInListview>
+      </C>
+      <Types>
+        <Type id="0" name="Forguncy.AttachedInfo" assembly="Forguncy" />
+      </Types>
+    </Tag>
+  </CellBlock>
+  <RowHeaderBlock rc="26" cc="1" />
+  <ColumnHeaderBlock rc="1" cc="19" />
+  <ViewportRowsAxis length="26" />
+  <ViewportColumnsAxis length="19">
+    <Item index="4">
+      <Size value="10" />
+    </Item>
+    <Item index="5">
+      <Size value="10" />
+    </Item>
+  </ViewportColumnsAxis>
+  <RowHeaderColumnsAxis length="1">
+    <Item index="0">
+      <CanUserResize value="False" />
+    </Item>
+  </RowHeaderColumnsAxis>
+  <ColumnHeaderRowsAxis length="1">
+    <Item index="0">
+      <CanUserResize value="False" />
+    </Item>
+  </ColumnHeaderRowsAxis>
+  <ViewportRowsAxisStyle length="26" />
+  <ViewportColumnsAxisStyle length="19" />
+  <RowHeaderRowsAxisStyle length="26" />
+  <RowHeaderColumnsAxisStyle length="1" />
+  <ColumnHeaderRowsAxisStyle length="1" />
+  <ColumnHeaderColumnsAxisStyle length="19" />
+  <CellsSpanModel>
+    <Items>
+      <Item r="7" c="3" rc="2" cc="13" />
+      <Item r="16" c="3" rc="1" cc="10" />
+      <Item r="20" c="3" rc="2" cc="13" />
+      <Item r="24" c="1" rc="2" cc="17" />
+      <Item r="17" c="3" rc="3" cc="13" />
+      <Item r="10" c="3" rc="2" cc="13" />
+      <Item r="13" c="3" rc="2" cc="13" />
+      <Item r="2" c="4" rc="4" cc="11" />
+    </Items>
+  </CellsSpanModel>
+  <Tag type="Forguncy.Model.Pages.SheetAttachData" assembly="Forguncy, Version=5.0.100.0, Culture=neutral, PublicKeyToken=967100671921c115">
+    <PageInfo class="Forguncy.Model.Pages.NormalPage" assembly="Forguncy">
+      <IsBuiltInPage>True</IsBuiltInPage>
+      <IsMobilePage>True</IsMobilePage>
+      <Name>FGC_ログイン_モバイル</Name>
+      <Title>ログイン</Title>
+    </PageInfo>
+  </Tag>
+</Sheet>
