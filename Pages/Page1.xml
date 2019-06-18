@@ -623,7 +623,6 @@
           <TemplateKey>_RS_Normal_Style2</TemplateKey>
           <Text>sdasdasd</Text>
         </CellType>
-        <IsCellIgnoreHideInListview>False</IsCellIgnoreHideInListview>
       </C>
       <Types>
         <Type id="0" name="Forguncy.AttachedInfo" assembly="Forguncy" />
@@ -661,7 +660,7 @@
         <VisitMode>LogonUser</VisitMode>
       </AuthorizeInfo>
       <Name>Page1</Name>
-      <Weight>2</Weight>
+      <Weight>0</Weight>
     </PageInfo>
   </Tag>
 </Sheet>

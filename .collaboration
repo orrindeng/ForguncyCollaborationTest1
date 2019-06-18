@@ -62,10 +62,7 @@
     "ModuleName": "FGC_ログイン"
   },
   {
-    "ModuleName": "Page1",
-    "State": 1,
-    "LockedBy": "huyuan",
-    "LockDateTime": "2019-06-18T19:12:56.7590591+08:00"
+    "ModuleName": "Page1"
   },
   {
     "ModuleName": "Page2"
@@ -78,9 +75,6 @@
     "ModuleType": 2
   },
   {
-    "ModuleName": "Page3",
-    "State": 3,
-    "LockedBy": "huyuan",
-    "LockDateTime": "2019-06-18T19:19:45.0701765+08:00"
+    "ModuleName": "Page3"
   }
 ]
