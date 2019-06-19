@@ -65,7 +65,10 @@
     "ModuleName": "FGC_ログイン"
   },
   {
-    "ModuleName": "Page1"
+    "ModuleName": "Page1",
+    "State": 1,
+    "LockedBy": "GRAPECITY\\ExperdotXie",
+    "LockDateTime": "2019-06-19T14:34:19.6699913+08:00"
   },
   {
     "ModuleName": "Page2",
