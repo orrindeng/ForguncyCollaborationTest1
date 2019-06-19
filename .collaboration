@@ -1,6 +1,9 @@
 [
   {
     "ModuleName": "Pages\\Built-in Mobile Pages",
+    "State": 1,
+    "LockedBy": "GRAPECITY\\ExperdotXie",
+    "LockDateTime": "2019-06-19T14:33:19.7414143+08:00",
     "ModuleType": 1
   },
   {
