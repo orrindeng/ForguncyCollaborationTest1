@@ -62,7 +62,10 @@
     "ModuleName": "FGC_ログイン"
   },
   {
-    "ModuleName": "Page1"
+    "ModuleName": "Page1",
+    "State": 1,
+    "LockedBy": "orrindeng",
+    "LockDateTime": "2019-06-19T10:53:18.7944002+08:00"
   },
   {
     "ModuleName": "Page2"
