@@ -620,6 +620,11 @@
     <Tag>
       <C pos="10,9" type="0">
         <CellType class="Forguncy.ButtonCellType" assembly="Forguncy">
+          <CommandList>
+            <Item class="Forguncy.Model.NavigateCommand" assembly="Forguncy">
+              <PageName>Page2</PageName>
+            </Item>
+          </CommandList>
           <TemplateKey>_RS_Normal_Style2</TemplateKey>
           <Text>sdasdasd</Text>
         </CellType>
