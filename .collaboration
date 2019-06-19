@@ -65,7 +65,10 @@
     "ModuleName": "Page1"
   },
   {
-    "ModuleName": "Page2"
+    "ModuleName": "Page2",
+    "State": 2,
+    "LockedBy": "orrindeng",
+    "LockDateTime": "2019-06-19T10:54:10.7348314+08:00"
   },
   {
     "ModuleName": "FGC_ユーザーマスターページ"
@@ -79,5 +82,11 @@
   },
   {
     "ModuleName": "Page4"
+  },
+  {
+    "ModuleName": "Page222",
+    "State": 3,
+    "LockedBy": "orrindeng",
+    "LockDateTime": "2019-06-19T10:54:10.7428375+08:00"
   }
 ]
