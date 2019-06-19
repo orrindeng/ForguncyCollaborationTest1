@@ -6,6 +6,10 @@
       <Name value="BKGUDCOLR=#FFFFFF00" />
       <Background value="#FFFFFF00" />
     </Item>
+    <Item index="1" type="StyleInfo">
+      <Name value="FMT=General" />
+      <Formatter value="[Auto]General" />
+    </Item>
   </NamedStyles>
   <DefaultStyle>
     <FontFamily value="Body" />
@@ -14,18 +18,21 @@
     <FontFamily value="MS PGothic" />
     <HorizontalAlignment value="Center" />
     <VerticalAlignment value="Center" />
-    <Foreground value="black" />
   </DefaultColumnHeaderStyle>
   <DefaultRowHeaderStyle>
     <FontFamily value="MS PGothic" />
     <HorizontalAlignment value="Center" />
     <VerticalAlignment value="Center" />
-    <Foreground value="black" />
   </DefaultRowHeaderStyle>
   <SelectionBorderColor />
   <TouchSelectionGripperBackgroundColor value="#FFFFFFFF" />
   <CellBlock rc="45" cc="60">
-    <Data />
+    <Data>
+      <C pos="20,25" type="0" value="1111" />
+      <Types>
+        <Type id="0" name="System.Int32" assembly="mscorlib" />
+      </Types>
+    </Data>
     <Style>
       <C pos="10,12" type="0" value="BKGUDCOLR=#FFFFFF00" />
       <C pos="10,13" type="0" value="BKGUDCOLR=#FFFFFF00" />
@@ -117,15 +124,21 @@
       <C pos="19,18" type="0" value="BKGUDCOLR=#FFFFFF00" />
       <C pos="19,19" type="0" value="BKGUDCOLR=#FFFFFF00" />
       <C pos="19,20" type="0" value="BKGUDCOLR=#FFFFFF00" />
+      <C pos="20,25" type="0" value="FMT=General" />
       <Types>
         <Type id="0" name="System.String" assembly="mscorlib" />
       </Types>
     </Style>
     <Tag>
-      <C pos="6,24" type="0">
+      <C pos="6,3" type="0">
         <CellType class="Forguncy.ButtonCellType" assembly="Forguncy">
           <TemplateKey>_RS_Normal_Style2</TemplateKey>
           <Text></Text>
+        </CellType>
+      </C>
+      <C pos="6,24" type="0">
+        <CellType class="Forguncy.ButtonCellType" assembly="Forguncy">
+          <TemplateKey>_RS_Normal_Style2</TemplateKey>
         </CellType>
       </C>
       <Types>
@@ -156,6 +169,7 @@
   <CellsSpanModel>
     <Items>
       <Item r="6" c="24" rc="7" cc="12" />
+      <Item r="6" c="3" rc="3" cc="7" />
     </Items>
   </CellsSpanModel>
   <Tag type="Forguncy.Model.Pages.SheetAttachData" assembly="Forguncy, Version=5.0.100.0, Culture=neutral, PublicKeyToken=967100671921c115">

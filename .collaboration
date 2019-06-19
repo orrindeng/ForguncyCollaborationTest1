@@ -75,9 +75,6 @@
     "ModuleType": 2
   },
   {
-    "ModuleName": "Page3",
-    "State": 1,
-    "LockedBy": "orrindeng",
-    "LockDateTime": "2019-06-19T10:14:05.5073586+08:00"
+    "ModuleName": "Page3"
   }
 ]
