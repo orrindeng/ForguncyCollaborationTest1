@@ -629,6 +629,12 @@
           <Text>sdasdasd</Text>
         </CellType>
       </C>
+      <C pos="25,5" type="0">
+        <CellType class="Forguncy.ButtonCellType" assembly="Forguncy">
+          <TemplateKey>_RS_Normal_Style2</TemplateKey>
+          <Text></Text>
+        </CellType>
+      </C>
       <Types>
         <Type id="0" name="Forguncy.AttachedInfo" assembly="Forguncy" />
       </Types>
@@ -657,6 +663,7 @@
   <CellsSpanModel>
     <Items>
       <Item r="10" c="9" rc="10" cc="14" />
+      <Item r="25" c="5" rc="7" cc="19" />
     </Items>
   </CellsSpanModel>
   <Tag type="Forguncy.Model.Pages.SheetAttachData" assembly="Forguncy, Version=5.0.100.0, Culture=neutral, PublicKeyToken=967100671921c115">
