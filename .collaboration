@@ -5,16 +5,7 @@
   },
   {
     "ModuleName": "FGC_401页面",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "1111111111111",
-      "Email": "robert.hu@grapecity.com"
-    },
-    "LockDateTime": "2019-08-08T17:09:33.2439428+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\内建页面\\FGC_401页面.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "FGC_修改密码",
@@ -90,16 +81,7 @@
   },
   {
     "ModuleName": "页面1",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "1111111111111",
-      "Email": "robert.hu@grapecity.com"
-    },
-    "LockDateTime": "2019-08-08T17:03:16.1231439+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\页面1.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "FGC_母版页",
