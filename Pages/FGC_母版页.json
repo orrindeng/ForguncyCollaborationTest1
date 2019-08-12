@@ -41,6 +41,17 @@
     "4,4,26,47",
     "30,4,2,47"
   ],
+  "BackgroundPictures": [
+    {
+      "StyleInfo": {
+        "Fill": "Accent 1 0"
+      },
+      "IsAutomaticFill": false,
+      "Name": "9d382752-f3ea-48a3-bb53-d6d47ed4c55a.png",
+      "Location": "80,0",
+      "Size": "940,60"
+    }
+  ],
   "PageInfo": {
     "$type": "Forguncy.Model.Pages.MasterPage, Forguncy",
     "IsBuiltInPage": true

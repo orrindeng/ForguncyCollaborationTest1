@@ -1,54 +1,5 @@
 [
   {
-    "ModuleName": "Pages\\内建页面",
-    "ModuleType": 6
-  },
-  {
-    "ModuleName": "FGC_401页面",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "1111111111111",
-      "Email": "robert.hu@grapecity.com"
-    },
-    "LockDateTime": "2019-08-09T09:08:55.032189+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\内建页面\\FGC_401页面.json"
-    ]
-  },
-  {
-    "ModuleName": "FGC_修改密码",
-    "ModuleType": 1
-  },
-  {
-    "ModuleName": "FGC_忘记密码",
-    "ModuleType": 1
-  },
-  {
-    "ModuleName": "FGC_邮件订阅",
-    "ModuleType": 1
-  },
-  {
-    "ModuleName": "FGC_维护中",
-    "ModuleType": 1
-  },
-  {
-    "ModuleName": "FGC_修改用户信息",
-    "ModuleType": 1
-  },
-  {
-    "ModuleName": "FGC_重置密码",
-    "ModuleType": 1
-  },
-  {
-    "ModuleName": "FGC_重置密码发送邮件成功",
-    "ModuleType": 1
-  },
-  {
-    "ModuleName": "FGC_登录",
-    "ModuleType": 1
-  },
-  {
     "ModuleName": "Pages\\内建手机页面",
     "ModuleType": 6
   },
@@ -61,27 +12,11 @@
     "ModuleType": 2
   },
   {
-    "ModuleName": "FGC_忘记密码_手机版",
-    "ModuleType": 2
-  },
-  {
-    "ModuleName": "FGC_邮件订阅_手机版",
-    "ModuleType": 2
-  },
-  {
-    "ModuleName": "FGC_维护中_手机版",
-    "ModuleType": 2
-  },
-  {
     "ModuleName": "FGC_修改用户信息_手机版",
     "ModuleType": 2
   },
   {
-    "ModuleName": "FGC_重置密码发送邮件成功_手机版",
-    "ModuleType": 2
-  },
-  {
-    "ModuleName": "FGC_重置密码_手机版",
+    "ModuleName": "FGC_忘记密码_手机版",
     "ModuleType": 2
   },
   {
@@ -89,7 +24,75 @@
     "ModuleType": 2
   },
   {
+    "ModuleName": "FGC_维护中_手机版",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "FGC_邮件订阅_手机版",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "FGC_重置密码_手机版",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "FGC_重置密码发送邮件成功_手机版",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "Pages\\内建页面",
+    "ModuleType": 6
+  },
+  {
+    "ModuleName": "FGC_401页面",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "FGC_修改密码",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "FGC_修改用户信息",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "FGC_忘记密码",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "FGC_登录",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "FGC_维护中",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "FGC_邮件订阅",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "FGC_重置密码",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "FGC_重置密码发送邮件成功",
+    "ModuleType": 1
+  },
+  {
     "ModuleName": "页面1",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "页面2",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "页面3",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "页面4",
     "ModuleType": 1
   },
   {

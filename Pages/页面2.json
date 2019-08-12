@@ -6,10 +6,15 @@
     "Count": 60
   },
   "AttachInfos": {
-    "10,5": {
+    "6,15": {
       "CellType": {
-        "$type": "Forguncy.ButtonCellType, Forguncy",
-        "TemplateKey": "_RS_Normal_Style2"
+        "$type": "Forguncy.TextCellType, Forguncy",
+        "SavedValidators": [
+          {
+            "$type": "Forguncy.CellTypes.Models.UniqueValidadator, Forguncy"
+          }
+        ],
+        "TemplateKey": "_RS_LightLine_Translucent_SmallRoundCorner_Normal1"
       }
     }
   },
@@ -24,14 +29,14 @@
     }
   },
   "Spans": [
-    "10,5,9,11"
+    "6,15,6,7"
   ],
   "PageInfo": {
     "$type": "Forguncy.Model.Pages.NormalPage, Forguncy",
     "AuthorizeInfo": {
       "VisitMode": 2
     },
-    "Weight": 0
+    "Weight": 1
   },
   "PrintInfo": {
     "Margin": {},
