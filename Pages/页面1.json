@@ -9,7 +9,24 @@
     "10,5": {
       "CellType": {
         "$type": "Forguncy.ButtonCellType, Forguncy",
-        "TemplateKey": "_RS_Normal_Style2"
+        "TemplateKey": "_RS_Normal_Style2",
+        "UIPermissions": [
+          {
+            "Category": "按钮",
+            "Scope": 2,
+            "Enabled": true,
+            "AllowRoles": [
+              "FGC_Anonymous"
+            ]
+          },
+          {
+            "Category": "按钮",
+            "Scope": 1,
+            "AllowRoles": [
+              "FGC_Anonymous"
+            ]
+          }
+        ]
       }
     }
   },

@@ -24,6 +24,23 @@
             "Value": "项目3",
             "DisplayValue": "项目3"
           }
+        ],
+        "UIPermissions": [
+          {
+            "Category": "单选按钮",
+            "Scope": 2,
+            "Enabled": true,
+            "AllowRoles": [
+              "FGC_Anonymous"
+            ]
+          },
+          {
+            "Category": "单选按钮",
+            "Scope": 1,
+            "AllowRoles": [
+              "FGC_Anonymous"
+            ]
+          }
         ]
       }
     }
