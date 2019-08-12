@@ -107,7 +107,16 @@
   },
   {
     "ModuleName": "页面3",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "1111111111111",
+      "Email": "robert.hu@grapecity.com"
+    },
+    "LockDateTime": "2019-08-12T17:34:28.6026344+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\页面3.json"
+    ]
   },
   {
     "ModuleName": "页面4",
