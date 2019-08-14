@@ -1,45 +1,5 @@
 [
   {
-    "ModuleName": "Pages\\内建手机页面",
-    "ModuleType": 6
-  },
-  {
-    "ModuleName": "FGC_401页面_手机版",
-    "ModuleType": 2
-  },
-  {
-    "ModuleName": "FGC_修改密码_手机版",
-    "ModuleType": 2
-  },
-  {
-    "ModuleName": "FGC_修改用户信息_手机版",
-    "ModuleType": 2
-  },
-  {
-    "ModuleName": "FGC_忘记密码_手机版",
-    "ModuleType": 2
-  },
-  {
-    "ModuleName": "FGC_登录_手机版",
-    "ModuleType": 2
-  },
-  {
-    "ModuleName": "FGC_维护中_手机版",
-    "ModuleType": 2
-  },
-  {
-    "ModuleName": "FGC_邮件订阅_手机版",
-    "ModuleType": 2
-  },
-  {
-    "ModuleName": "FGC_重置密码_手机版",
-    "ModuleType": 2
-  },
-  {
-    "ModuleName": "FGC_重置密码发送邮件成功_手机版",
-    "ModuleType": 2
-  },
-  {
     "ModuleName": "Pages\\内建页面",
     "ModuleType": 6
   },
@@ -52,15 +12,11 @@
     "ModuleType": 1
   },
   {
-    "ModuleName": "FGC_修改用户信息",
-    "ModuleType": 1
-  },
-  {
     "ModuleName": "FGC_忘记密码",
     "ModuleType": 1
   },
   {
-    "ModuleName": "FGC_登录",
+    "ModuleName": "FGC_邮件订阅",
     "ModuleType": 1
   },
   {
@@ -68,7 +24,7 @@
     "ModuleType": 1
   },
   {
-    "ModuleName": "FGC_邮件订阅",
+    "ModuleName": "FGC_修改用户信息",
     "ModuleType": 1
   },
   {
@@ -80,20 +36,61 @@
     "ModuleType": 1
   },
   {
+    "ModuleName": "FGC_登录",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "Pages\\内建手机页面",
+    "ModuleType": 6
+  },
+  {
+    "ModuleName": "FGC_401页面_手机版",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "FGC_修改密码_手机版",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "FGC_忘记密码_手机版",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "FGC_邮件订阅_手机版",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "FGC_维护中_手机版",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "FGC_修改用户信息_手机版",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "FGC_重置密码发送邮件成功_手机版",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "FGC_重置密码_手机版",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "FGC_登录_手机版",
+    "ModuleType": 2
+  },
+  {
     "ModuleName": "页面1",
-    "ModuleType": 1
-  },
-  {
-    "ModuleName": "页面2",
-    "ModuleType": 1
-  },
-  {
-    "ModuleName": "页面3",
-    "ModuleType": 1
-  },
-  {
-    "ModuleName": "页面4",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\OrrinDeng",
+      "Email": "orrin.deng@grapecity.com"
+    },
+    "LockDateTime": "2019-08-14T09:24:45.7748619+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\页面1.json"
+    ]
   },
   {
     "ModuleName": "FGC_母版页",
@@ -130,5 +127,17 @@
   {
     "ModuleName": "01725a5e-d06d-454e-ba18-6b6c0e11ece4",
     "ModuleType": 14
+  },
+  {
+    "ModuleName": "页面2",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "页面3",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "页面4",
+    "ModuleType": 1
   }
 ]
