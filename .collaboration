@@ -81,16 +81,7 @@
   },
   {
     "ModuleName": "页面1",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\OrrinDeng",
-      "Email": "orrin.deng@grapecity.com"
-    },
-    "LockDateTime": "2019-08-14T09:24:45.7748619+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\页面1.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "FGC_母版页",
@@ -98,18 +89,7 @@
   },
   {
     "ModuleName": "3662ae4e-b6b1-4ac1-b3e9-bf214d7e34ab",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\OrrinDeng",
-      "Email": "orrin.deng@grapecity.com"
-    },
-    "LockDateTime": "2019-08-14T09:28:42.2273283+08:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "TableSet",
-      "ForguncyDB.sqlite3",
-      "DataConnectionSet"
-    ]
+    "ModuleType": 7
   },
   {
     "ModuleName": "c0399537-e72c-407d-82a2-ce31c68456a2",
