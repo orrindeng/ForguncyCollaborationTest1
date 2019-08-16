@@ -133,12 +133,6 @@
   },
   {
     "ModuleName": "页面5",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "pick2",
-      "Email": "orrin.deng@grapecity.com"
-    },
-    "LockDateTime": "2019-08-16T17:20:35.3374027+08:00",
     "ModuleType": 1
   }
 ]
