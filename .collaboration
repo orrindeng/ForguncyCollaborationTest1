@@ -133,6 +133,15 @@
   },
   {
     "ModuleName": "页面5",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "pick2",
+      "Email": "orrin.deng@grapecity.com"
+    },
+    "LockDateTime": "2019-08-16T18:09:30.5102954+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\页面5.json"
+    ]
   }
 ]
