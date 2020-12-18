@@ -1,43 +1,7 @@
 [
   {
-    "ModuleName": "Pages\\内建页面",
-    "ModuleType": 6
-  },
-  {
-    "ModuleName": "FGC_401页面",
-    "ModuleType": 1
-  },
-  {
-    "ModuleName": "FGC_修改密码",
-    "ModuleType": 1
-  },
-  {
-    "ModuleName": "FGC_忘记密码",
-    "ModuleType": 1
-  },
-  {
-    "ModuleName": "FGC_邮件订阅",
-    "ModuleType": 1
-  },
-  {
-    "ModuleName": "FGC_维护中",
-    "ModuleType": 1
-  },
-  {
-    "ModuleName": "FGC_修改用户信息",
-    "ModuleType": 1
-  },
-  {
-    "ModuleName": "FGC_重置密码",
-    "ModuleType": 1
-  },
-  {
-    "ModuleName": "FGC_重置密码发送邮件成功",
-    "ModuleType": 1
-  },
-  {
-    "ModuleName": "FGC_登录",
-    "ModuleType": 1
+    "ModuleName": "3662ae4e-b6b1-4ac1-b3e9-bf214d7e34ab",
+    "ModuleType": 7
   },
   {
     "ModuleName": "Pages\\内建手机页面",
@@ -52,27 +16,11 @@
     "ModuleType": 2
   },
   {
-    "ModuleName": "FGC_忘记密码_手机版",
-    "ModuleType": 2
-  },
-  {
-    "ModuleName": "FGC_邮件订阅_手机版",
-    "ModuleType": 2
-  },
-  {
-    "ModuleName": "FGC_维护中_手机版",
-    "ModuleType": 2
-  },
-  {
     "ModuleName": "FGC_修改用户信息_手机版",
     "ModuleType": 2
   },
   {
-    "ModuleName": "FGC_重置密码发送邮件成功_手机版",
-    "ModuleType": 2
-  },
-  {
-    "ModuleName": "FGC_重置密码_手机版",
+    "ModuleName": "FGC_忘记密码_手机版",
     "ModuleType": 2
   },
   {
@@ -80,7 +28,95 @@
     "ModuleType": 2
   },
   {
+    "ModuleName": "FGC_维护中_手机版",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "FGC_邮件订阅_手机版",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "FGC_重置密码_手机版",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "FGC_重置密码发送邮件成功_手机版",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "FGC_PageName_MFA_ScanBarcodePage_Mobile",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "FGC_PageName_MFA_VerifyCodePage_Mobile",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "Pages\\内建页面",
+    "ModuleType": 6
+  },
+  {
+    "ModuleName": "FGC_401页面",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "FGC_修改密码",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "FGC_修改用户信息",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "FGC_忘记密码",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "FGC_登录",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "FGC_维护中",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "FGC_邮件订阅",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "FGC_重置密码",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "FGC_重置密码发送邮件成功",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "FGC_PageName_MFA_ScanBarcodePage",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "FGC_PageName_MFA_VerifyCodePage",
+    "ModuleType": 1
+  },
+  {
     "ModuleName": "页面1",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "页面2",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "页面3",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "页面4",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "页面5",
     "ModuleType": 1
   },
   {
@@ -88,8 +124,12 @@
     "ModuleType": 3
   },
   {
-    "ModuleName": "3662ae4e-b6b1-4ac1-b3e9-bf214d7e34ab",
-    "ModuleType": 7
+    "ModuleName": "f136f31a-5285-4164-b8e6-6a822fdf27bd",
+    "ModuleType": 15
+  },
+  {
+    "ModuleName": "b5d0fd75-997c-4418-a16b-6dc3dcd86817",
+    "ModuleType": 16
   },
   {
     "ModuleName": "c0399537-e72c-407d-82a2-ce31c68456a2",
@@ -118,21 +158,5 @@
   {
     "ModuleName": "01725a5e-d06d-454e-ba18-6b6c0e11ece4",
     "ModuleType": 14
-  },
-  {
-    "ModuleName": "页面2",
-    "ModuleType": 1
-  },
-  {
-    "ModuleName": "页面3",
-    "ModuleType": 1
-  },
-  {
-    "ModuleName": "页面4",
-    "ModuleType": 1
-  },
-  {
-    "ModuleName": "页面5",
-    "ModuleType": 1
   }
 ]

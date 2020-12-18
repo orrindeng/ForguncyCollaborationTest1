@@ -3,6 +3,7 @@
   <IntegrateWithOtherApplication>
     <Password>zg1o2Fw@bIX6</Password>
   </IntegrateWithOtherApplication>
+  <IsPageInContainerBackgroundHardCodeWhite>True</IsPageInContainerBackgroundHardCodeWhite>
   <UserServicePort>49102</UserServicePort>
   <WebSitePort>29176</WebSitePort>
 </ApplicationSettings>
