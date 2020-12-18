@@ -101,7 +101,16 @@
   },
   {
     "ModuleName": "页面1",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\OrrinDeng",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2020-12-18T11:40:44.3678017+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\页面1.json"
+    ]
   },
   {
     "ModuleName": "页面2",
